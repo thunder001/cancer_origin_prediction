@@ -1,0 +1,1469 @@
+,Patient,Diagnosis,Primary_site,Prediction,Correct
+0,TCGA-G7-6796,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+1,TCGA-CV-A6JN,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+2,TCGA-D5-6927,Colon Adenocarcinoma,Colorectal,Colorectal,True
+3,TCGA-DJ-A2PW,Thyroid Carcinoma,Thyroid,Thyroid,True
+4,TCGA-A2-A0T4,Breast Invasive Carcinoma,Breast,Breast,True
+5,TCGA-DU-6392,Brain Lower Grade Glioma,Brain,Brain,True
+6,TCGA-S3-AA14,Breast Invasive Carcinoma,Breast,Breast,True
+7,TCGA-B0-5699,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+8,TCGA-DD-AADK,Liver Hepatocellular Carcinoma,Liver,Liver,True
+9,TCGA-A7-A4SA,Breast Invasive Carcinoma,Breast,Breast,True
+10,TCGA-CC-A7IL,Liver Hepatocellular Carcinoma,Liver,Liver,True
+11,TCGA-2Z-A9JG,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+12,TCGA-CZ-4853,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+13,TCGA-DD-A113,Liver Hepatocellular Carcinoma,Liver,Liver,True
+14,TCGA-FB-AAPS,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+15,TCGA-DW-5560,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+16,TCGA-CN-6992,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+17,TCGA-DD-A1EJ,Liver Hepatocellular Carcinoma,Liver,Liver,True
+18,TCGA-CN-5365,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+19,TCGA-SX-A7SS,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+20,TCGA-OR-A5LL,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+21,TCGA-AO-A0JM,Breast Invasive Carcinoma,Breast,Breast,True
+22,TCGA-YU-A912,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+23,TCGA-CU-A72E,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+24,TCGA-CH-5745,Prostate Adenocarcinoma,Prostate,Prostate,True
+25,TCGA-WB-A80K,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+26,TCGA-BA-6869,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+27,TCGA-FG-8182,Brain Lower Grade Glioma,Brain,Brain,True
+28,TCGA-HT-8558,Brain Lower Grade Glioma,Brain,Brain,True
+29,TCGA-IZ-8195,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+30,TCGA-DK-A1AC,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+31,TCGA-22-4593,Lung Squamous Cell Carcinoma,Lung,Lung,True
+32,TCGA-EJ-8469,Prostate Adenocarcinoma,Prostate,Prostate,True
+33,TCGA-FX-A3NK,Sarcoma,Skin,Skin,True
+34,TCGA-OR-A5JO,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+35,TCGA-2J-AAB1,Pancreatic Adenocarcinoma,Prostate,Prostate,True
+36,TCGA-D6-A6ES,Head and Neck Squamous Cell Carcinoma,Head and Neck,Esophagus,False
+37,TCGA-5M-AAT5,,Colorectal,Colorectal,True
+38,TCGA-97-A4M0,Lung Adenocarcinoma,Lung,Lung,True
+39,TCGA-BH-A2L8,Breast Invasive Carcinoma,Breast,Breast,True
+40,TCGA-56-7222,Lung Squamous Cell Carcinoma,Lung,Lung,True
+41,TCGA-R8-A6YH,,Liver,Liver,True
+42,TCGA-DJ-A3V6,Thyroid Carcinoma,Thyroid,Thyroid,True
+43,TCGA-A2-A25D,Breast Invasive Carcinoma,Breast,Breast,True
+44,TCGA-CV-7101,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+45,TCGA-TQ-A8XE,Brain Lower Grade Glioma,Liver,Liver,True
+46,TCGA-CN-5361,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+47,TCGA-90-6837,Lung Squamous Cell Carcinoma,Lung,Lung,True
+48,TCGA-XN-A8T3,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+49,TCGA-33-AASJ,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+50,TCGA-DJ-A2PZ,Thyroid Carcinoma,Thymus,Thymus,True
+51,TCGA-86-A4P7,Lung Adenocarcinoma,Lung,Lung,True
+52,TCGA-L9-A444,Lung Adenocarcinoma,Lung,Lung,True
+53,TCGA-HT-7689,Brain Lower Grade Glioma,Brain,Brain,True
+54,TCGA-44-6778,Lung Adenocarcinoma,Lung,Lung,True
+55,TCGA-QK-A8Z7,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+56,TCGA-55-6983,Lung Adenocarcinoma,Lung,Lung,True
+57,TCGA-63-A5MW,Lung Squamous Cell Carcinoma,Lung,Lung,True
+58,TCGA-WB-A81T,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+59,TCGA-50-5066,Lung Adenocarcinoma,Lung,Lung,True
+60,TCGA-KN-8435,Kidney Chromophobe,Kidney,Kidney,True
+61,TCGA-EM-A2OW,Thyroid Carcinoma,Thyroid,Thyroid,True
+62,TCGA-CV-6441,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+63,TCGA-AR-A1AN,Breast Invasive Carcinoma,Breast,Breast,True
+64,TCGA-NJ-A4YG,Lung Adenocarcinoma,Lung,Lung,True
+65,TCGA-OR-A5J4,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+66,TCGA-RW-A68F,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+67,TCGA-G9-6373,Prostate Adenocarcinoma,Prostate,Prostate,True
+68,TCGA-J9-A8CK,Prostate Adenocarcinoma,Prostate,Prostate,True
+69,TCGA-CV-5434,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+70,TCGA-D5-6926,Colon Adenocarcinoma,Colorectal,Colorectal,True
+71,TCGA-OR-A5LS,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+72,TCGA-BC-A3KF,Liver Hepatocellular Carcinoma,Liver,Liver,True
+73,TCGA-B0-4841,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+74,TCGA-X6-A8C2,Sarcoma,Skin,Skin,True
+75,TCGA-DU-6406,Brain Lower Grade Glioma,Brain,Brain,True
+76,TCGA-39-5016,Lung Squamous Cell Carcinoma,Lung,Lung,True
+77,TCGA-43-A56U,Lung Squamous Cell Carcinoma,Lung,Lung,True
+78,TCGA-DJ-A4UT,Thyroid Carcinoma,Thyroid,Thyroid,True
+79,TCGA-XD-AAUH,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+80,TCGA-S9-A6TY,Brain Lower Grade Glioma,Brain,Brain,True
+81,TCGA-AO-A03U,Breast Invasive Carcinoma,Breast,Breast,True
+82,TCGA-DD-A3A0,Liver Hepatocellular Carcinoma,Liver,Liver,True
+83,TCGA-BR-8486,Stomach Adenocarcinoma,Thyroid,Thyroid,True
+84,TCGA-G7-A8LD,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+85,TCGA-38-6178,Lung Adenocarcinoma,Lung,Lung,True
+86,TCGA-OR-A5JS,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+87,TCGA-FF-8061,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,Esophagus,Stomach,False
+88,TCGA-DU-A7TC,Brain Lower Grade Glioma,Brain,Brain,True
+89,TCGA-BA-5556,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+90,TCGA-LD-A9QF,Breast Invasive Carcinoma,Breast,Breast,True
+91,TCGA-AF-2693,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+92,TCGA-T1-A6J8,Liver Hepatocellular Carcinoma,Liver,Liver,True
+93,TCGA-G4-6293,Colon Adenocarcinoma,Colorectal,Colorectal,True
+94,TCGA-L9-A7SV,Lung Adenocarcinoma,Lung,Lung,True
+95,TCGA-E8-A418,Thyroid Carcinoma,Thymus,Thymus,True
+96,TCGA-CH-5744,Prostate Adenocarcinoma,Prostate,Prostate,True
+97,TCGA-HT-7681,Brain Lower Grade Glioma,Liver,Liver,True
+98,TCGA-HT-7608,Brain Lower Grade Glioma,Brain,Brain,True
+99,TCGA-KS-A41L,Thyroid Carcinoma,Thyroid,Thyroid,True
+100,TCGA-DD-AACX,Liver Hepatocellular Carcinoma,Lung,Lung,True
+101,TCGA-56-8308,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+102,TCGA-E8-A413,Thyroid Carcinoma,Thyroid,Thyroid,True
+103,TCGA-L5-A88Y,Esophageal Carcinoma,Brain,Brain,True
+104,TCGA-UF-A7JD,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+105,TCGA-HU-8245,Stomach Adenocarcinoma,Stomach,Stomach,True
+106,TCGA-LG-A9QD,Liver Hepatocellular Carcinoma,Liver,Liver,True
+107,TCGA-DJ-A3VF,Thyroid Carcinoma,Thyroid,Thyroid,True
+108,TCGA-33-AAS8,Lung Squamous Cell Carcinoma,Lung,Lung,True
+109,TCGA-DK-A3IU,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+110,TCGA-TM-A84I,Brain Lower Grade Glioma,Brain,Brain,True
+111,TCGA-BF-A1Q0,Skin Cutaneous Melanoma,Stomach,Stomach,True
+112,TCGA-CK-6747,Colon Adenocarcinoma,Colorectal,Colorectal,True
+113,TCGA-RW-A67Y,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+114,TCGA-L5-A8NM,Esophageal Carcinoma,Esophagus,Esophagus,True
+115,TCGA-E9-A22A,Breast Invasive Carcinoma,Breast,Breast,True
+116,TCGA-E2-A108,Breast Invasive Carcinoma,Breast,Breast,True
+117,TCGA-W2-A7HH,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+118,TCGA-05-4396,Lung Adenocarcinoma,Lung,Lung,True
+119,TCGA-CD-8533,Stomach Adenocarcinoma,Testis,Testis,True
+120,TCGA-2L-AAQJ,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+121,TCGA-BH-A1FN,Breast Invasive Carcinoma,Breast,Breast,True
+122,TCGA-D6-A6EP,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+123,TCGA-GR-7351,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,Esophagus,Stomach,False
+124,TCGA-B6-A0RI,Breast Invasive Carcinoma,Breast,Breast,True
+125,TCGA-H9-7775,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+126,TCGA-BB-4228,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+127,TCGA-EJ-7794,Prostate Adenocarcinoma,Prostate,Prostate,True
+128,TCGA-73-4676,Lung Adenocarcinoma,Lung,Lung,True
+129,TCGA-BH-A0BC,Breast Invasive Carcinoma,Breast,Breast,True
+130,TCGA-FD-A3B3,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+131,TCGA-HV-A7OP,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+132,TCGA-AG-3725,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+133,TCGA-S9-A7R3,Brain Lower Grade Glioma,Brain,Brain,True
+134,TCGA-DJ-A1QH,Thyroid Carcinoma,Thyroid,Thyroid,True
+135,TCGA-BH-A0HY,Breast Invasive Carcinoma,Breast,Breast,True
+136,TCGA-EW-A423,Breast Invasive Carcinoma,Breast,Breast,True
+137,TCGA-94-A5I4,Lung Squamous Cell Carcinoma,Lung,Lung,True
+138,TCGA-VR-AA4D,Esophageal Carcinoma,Brain,Brain,True
+139,TCGA-HC-8258,Prostate Adenocarcinoma,Prostate,Prostate,True
+140,TCGA-FP-8209,Stomach Adenocarcinoma,Thyroid,Thyroid,True
+141,TCGA-D7-A74B,Stomach Adenocarcinoma,Stomach,Stomach,True
+142,TCGA-BT-A20T,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+143,TCGA-NH-A8F7,Colon Adenocarcinoma,Colorectal,Colorectal,True
+144,TCGA-44-6147,Lung Adenocarcinoma,Lung,Lung,True
+145,TCGA-95-A4VN,Lung Adenocarcinoma,Lung,Lung,True
+146,TCGA-MM-A563,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+147,TCGA-BR-8361,Stomach Adenocarcinoma,Stomach,Stomach,True
+148,TCGA-DD-A11B,Liver Hepatocellular Carcinoma,Liver,Liver,True
+149,TCGA-DQ-7592,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+150,TCGA-VM-A8CE,Brain Lower Grade Glioma,Brain,Brain,True
+151,TCGA-UZ-A9PK,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+152,TCGA-2G-AAGC,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+153,TCGA-2Z-A9J6,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+154,TCGA-KD-A5QT,Sarcoma,Skin,Skin,True
+155,TCGA-63-A5MS,Lung Squamous Cell Carcinoma,Lung,Lung,True
+156,TCGA-BR-6456,Stomach Adenocarcinoma,Stomach,Stomach,True
+157,TCGA-QQ-A8VB,Sarcoma,Skin,Skin,True
+158,TCGA-CV-A6JE,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+159,TCGA-NC-A5HQ,Lung Squamous Cell Carcinoma,Lung,Lung,True
+160,TCGA-CC-A3M9,Liver Hepatocellular Carcinoma,Lung,Lung,True
+161,TCGA-IM-A3U2,Thyroid Carcinoma,Thymus,Thymus,True
+162,TCGA-H4-A2HO,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+163,TCGA-AR-A0TW,Breast Invasive Carcinoma,Breast,Breast,True
+164,TCGA-IM-A3EB,Thyroid Carcinoma,Thyroid,Thyroid,True
+165,TCGA-34-8456,Lung Squamous Cell Carcinoma,Lung,Lung,True
+166,TCGA-E2-A109,Breast Invasive Carcinoma,Breast,Breast,True
+167,TCGA-BQ-5892,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+168,TCGA-5P-A9K3,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+169,TCGA-P5-A5F1,Brain Lower Grade Glioma,Liver,Liver,True
+170,TCGA-CC-5260,Liver Hepatocellular Carcinoma,Liver,Liver,True
+171,TCGA-BA-4078,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+172,TCGA-S9-A6U2,Brain Lower Grade Glioma,Liver,Liver,True
+173,TCGA-AO-A1KR,Breast Invasive Carcinoma,Breast,Breast,True
+174,TCGA-18-4721,Lung Squamous Cell Carcinoma,Lung,Lung,True
+175,TCGA-BP-5177,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+176,TCGA-B0-4714,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+177,TCGA-AF-A56L,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+178,TCGA-KL-8341,Kidney Chromophobe,Kidney,Kidney,True
+179,TCGA-BH-A0DQ,Breast Invasive Carcinoma,Breast,Breast,True
+180,TCGA-AO-A03M,Breast Invasive Carcinoma,Breast,Breast,True
+181,TCGA-VQ-A91U,Stomach Adenocarcinoma,Stomach,Stomach,True
+182,TCGA-OR-A5JT,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+183,TCGA-55-7914,Lung Adenocarcinoma,Lung,Lung,True
+184,TCGA-PC-A5DP,Sarcoma,Skin,Skin,True
+185,TCGA-B2-5635,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+186,TCGA-CV-A6K0,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+187,TCGA-CZ-5462,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+188,TCGA-BP-5170,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+189,TCGA-CV-7095,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+190,TCGA-DU-5872,Brain Lower Grade Glioma,Brain,Brain,True
+191,TCGA-KO-8408,Kidney Chromophobe,Kidney,Kidney,True
+192,TCGA-62-A470,Lung Adenocarcinoma,Lung,Lung,True
+193,TCGA-RW-A67X,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+194,TCGA-BB-7863,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+195,TCGA-EM-A22P,Thyroid Carcinoma,Thyroid,Thyroid,True
+196,TCGA-D8-A1XZ,Breast Invasive Carcinoma,Breast,Breast,True
+197,TCGA-77-8144,Lung Squamous Cell Carcinoma,Lung,Lung,True
+198,TCGA-BH-A0DH,Breast Invasive Carcinoma,Breast,Breast,True
+199,TCGA-CJ-5679,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+200,TCGA-FG-A60K,Brain Lower Grade Glioma,Brain,Brain,True
+201,TCGA-D8-A1XV,Breast Invasive Carcinoma,Breast,Breast,True
+202,TCGA-B0-5095,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+203,TCGA-55-6980,Lung Adenocarcinoma,Lung,Lung,True
+204,TCGA-BR-6564,Stomach Adenocarcinoma,Stomach,Stomach,True
+205,TCGA-DX-AB2O,Sarcoma,Skin,Skin,True
+206,TCGA-A6-2677,Colon Adenocarcinoma,Esophagus,Esophagus,True
+207,TCGA-D8-A4Z1,Breast Invasive Carcinoma,Breast,Breast,True
+208,TCGA-P3-A6T6,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+209,TCGA-XF-A9T2,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+210,TCGA-93-7348,Lung Adenocarcinoma,Lung,Lung,True
+211,TCGA-05-4384,Lung Adenocarcinoma,Lung,Pancreas,False
+212,TCGA-HU-8243,Stomach Adenocarcinoma,Testis,Testis,True
+213,TCGA-96-8170,Lung Squamous Cell Carcinoma,Lung,Lung,True
+214,TCGA-EJ-7781,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+215,TCGA-85-A511,Lung Squamous Cell Carcinoma,Lung,Lung,True
+216,TCGA-75-5125,Lung Adenocarcinoma,Lung,Lung,True
+217,TCGA-DU-A7TB,Brain Lower Grade Glioma,Liver,Liver,True
+218,TCGA-P8-A5KC,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+219,TCGA-BH-A6R9,Breast Invasive Carcinoma,Breast,Breast,True
+220,TCGA-C8-A26X,Breast Invasive Carcinoma,Breast,Breast,True
+221,TCGA-DJ-A2PR,Thyroid Carcinoma,Thyroid,Thyroid,True
+222,TCGA-18-5592,Lung Squamous Cell Carcinoma,Lung,Lung,True
+223,TCGA-MH-A562,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+224,TCGA-78-7536,Lung Adenocarcinoma,Lung,Liver,False
+225,TCGA-BR-A4PD,Stomach Adenocarcinoma,Testis,Testis,True
+226,TCGA-RN-AAAQ,Sarcoma,Stomach,Stomach,True
+227,TCGA-D7-8578,Stomach Adenocarcinoma,Thyroid,Thyroid,True
+228,TCGA-95-7567,Lung Adenocarcinoma,Lung,Lung,True
+229,TCGA-50-6595,Lung Adenocarcinoma,Lung,Lung,True
+230,TCGA-DX-AB2E,Sarcoma,Stomach,Stomach,True
+231,TCGA-HW-A5KJ,Brain Lower Grade Glioma,Brain,Brain,True
+232,TCGA-E2-A2P5,Breast Invasive Carcinoma,Breast,Breast,True
+233,TCGA-CV-5979,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+234,TCGA-ZG-A9L5,Prostate Adenocarcinoma,Prostate,Prostate,True
+235,TCGA-BH-A1EN,Breast Invasive Carcinoma,Breast,Breast,True
+236,TCGA-DE-A69J,Thyroid Carcinoma,Thyroid,Thyroid,True
+237,TCGA-UF-A718,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+238,TCGA-E2-A1IK,Breast Invasive Carcinoma,Breast,Breast,True
+239,TCGA-QC-AA9N,Sarcoma,Soft Tissue,Soft Tissue,True
+240,TCGA-KL-8326,Kidney Chromophobe,Kidney,Kidney,True
+241,TCGA-CR-7383,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+242,TCGA-EI-6884,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+243,TCGA-XF-A9SH,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+244,TCGA-BQ-5880,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+245,TCGA-XF-A9T8,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+246,TCGA-D6-6824,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+247,TCGA-B6-A1KC,Breast Invasive Carcinoma,Breast,Breast,True
+248,TCGA-EL-A3H1,Thyroid Carcinoma,Thyroid,Thyroid,True
+249,TCGA-2G-AAHP,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+250,TCGA-VQ-A91Q,Stomach Adenocarcinoma,Testis,Testis,True
+251,TCGA-CV-6954,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+252,TCGA-93-8067,Lung Adenocarcinoma,Lung,Lung,True
+253,TCGA-IE-A3OV,Sarcoma,Soft Tissue,Soft Tissue,True
+254,TCGA-ZF-A9RC,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+255,TCGA-QH-A6X5,Brain Lower Grade Glioma,Liver,Liver,True
+256,TCGA-HC-7211,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+257,TCGA-VW-A8FI,Brain Lower Grade Glioma,Brain,Brain,True
+258,TCGA-A2-A0YJ,Breast Invasive Carcinoma,Breast,Breast,True
+259,TCGA-J4-8200,Prostate Adenocarcinoma,Prostate,Prostate,True
+260,TCGA-P5-A5EV,Brain Lower Grade Glioma,Brain,Brain,True
+261,TCGA-XF-A9SP,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+262,TCGA-78-7154,Lung Adenocarcinoma,Lung,Lung,True
+263,TCGA-AC-A62X,Breast Invasive Carcinoma,Breast,Breast,True
+264,TCGA-DK-A2I4,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+265,TCGA-KM-8439,Kidney Chromophobe,Kidney,Kidney,True
+266,TCGA-EW-A1P8,Breast Invasive Carcinoma,Breast,Breast,True
+267,TCGA-MH-A55W,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+268,TCGA-MP-A4TE,Lung Adenocarcinoma,Lung,Lung,True
+269,TCGA-DD-AAD8,Liver Hepatocellular Carcinoma,Liver,Liver,True
+270,TCGA-50-5045,Lung Adenocarcinoma,Lung,Lung,True
+271,TCGA-A2-A0CK,Breast Invasive Carcinoma,Breast,Breast,True
+272,TCGA-3A-A9IN,Pancreatic Adenocarcinoma,Prostate,Prostate,True
+273,TCGA-G2-A2EC,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+274,TCGA-2F-A9KW,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+275,TCGA-HT-8113,Brain Lower Grade Glioma,Brain,Brain,True
+276,TCGA-G8-6909,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,Esophagus,Esophagus,True
+277,TCGA-ZF-AA5P,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+278,TCGA-C8-A27A,Breast Invasive Carcinoma,Breast,Breast,True
+279,TCGA-BH-A0B6,Breast Invasive Carcinoma,Breast,Breast,True
+280,TCGA-VQ-A91X,Stomach Adenocarcinoma,Testis,Testis,True
+281,TCGA-CV-6940,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+282,TCGA-2G-AALO,,Thyroid,Thyroid,True
+283,TCGA-F5-6571,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+284,TCGA-SH-A9CT,Mesothelioma,Pancreas,Pancreas,True
+285,TCGA-DX-AATS,Sarcoma,Skin,Skin,True
+286,TCGA-CN-6024,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+287,TCGA-HC-A6AO,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+288,TCGA-D8-A1Y2,Breast Invasive Carcinoma,Breast,Breast,True
+289,TCGA-EJ-5516,Prostate Adenocarcinoma,Prostate,Prostate,True
+290,TCGA-DH-5141,Brain Lower Grade Glioma,Brain,Brain,True
+291,TCGA-50-5946,Lung Adenocarcinoma,Lung,Lung,True
+292,TCGA-EL-A3T2,Thyroid Carcinoma,Thyroid,Thyroid,True
+293,TCGA-AA-3511,Colon Adenocarcinoma,Esophagus,Stomach,False
+294,TCGA-49-6761,Lung Adenocarcinoma,Lung,Lung,True
+295,TCGA-CS-4938,Brain Lower Grade Glioma,Brain,Brain,True
+296,TCGA-44-3918,Lung Adenocarcinoma,Lung,Lung,True
+297,TCGA-B0-4811,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+298,TCGA-DX-A3M1,Sarcoma,Stomach,Stomach,True
+299,TCGA-44-2666,Lung Adenocarcinoma,Lung,Lung,True
+300,TCGA-WB-A816,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+301,TCGA-94-A5I6,Lung Squamous Cell Carcinoma,Lung,Lung,True
+302,TCGA-XK-AAJT,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+303,TCGA-HU-8602,Stomach Adenocarcinoma,Stomach,Stomach,True
+304,TCGA-TM-A84F,Brain Lower Grade Glioma,Brain,Brain,True
+305,TCGA-BP-5189,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+306,TCGA-AD-6964,Colon Adenocarcinoma,Colorectal,Colorectal,True
+307,TCGA-NC-A5HJ,Lung Squamous Cell Carcinoma,Lung,Lung,True
+308,TCGA-39-5024,Lung Squamous Cell Carcinoma,Lung,Lung,True
+309,TCGA-K4-A4AB,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+310,TCGA-06-5408,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+311,TCGA-26-6174,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+312,TCGA-IN-AB1V,Stomach Adenocarcinoma,Stomach,Stomach,True
+313,TCGA-QR-A6H4,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+314,TCGA-BA-6868,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+315,TCGA-EL-A3T9,Thyroid Carcinoma,Thyroid,Thyroid,True
+316,TCGA-IB-A7M4,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+317,TCGA-B2-5635,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+318,TCGA-P4-AAVL,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+319,TCGA-E1-A7YK,Brain Lower Grade Glioma,Liver,Liver,True
+320,TCGA-TP-A8TT,Prostate Adenocarcinoma,Prostate,Prostate,True
+321,TCGA-CK-4948,Colon Adenocarcinoma,Colorectal,Colorectal,True
+322,TCGA-J4-AATV,Prostate Adenocarcinoma,Prostate,Prostate,True
+323,TCGA-CN-6013,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+324,TCGA-DX-A23Z,Sarcoma,Skin,Skin,True
+325,TCGA-A7-A6VX,Breast Invasive Carcinoma,Breast,Breast,True
+326,TCGA-F2-7273,Pancreatic Adenocarcinoma,Prostate,Prostate,True
+327,TCGA-DD-AAW0,Liver Hepatocellular Carcinoma,Lung,Lung,True
+328,TCGA-HQ-A5NE,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+329,TCGA-AA-3495,Colon Adenocarcinoma,Colorectal,Colorectal,True
+330,TCGA-OL-A5D8,Breast Invasive Carcinoma,Breast,Breast,True
+331,TCGA-VV-A86M,Brain Lower Grade Glioma,Brain,Brain,True
+332,TCGA-BH-A1EV,Breast Invasive Carcinoma,Breast,Breast,True
+333,TCGA-CQ-5325,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+334,TCGA-BT-A0YX,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+335,TCGA-OL-A5RV,Breast Invasive Carcinoma,Breast,Breast,True
+336,TCGA-86-8358,Lung Adenocarcinoma,Lung,Lung,True
+337,TCGA-C8-A1HI,Breast Invasive Carcinoma,Breast,Breast,True
+338,TCGA-69-8253,Lung Adenocarcinoma,Lung,Lung,True
+339,TCGA-CU-A0YR,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+340,TCGA-GC-A3RC,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+341,TCGA-DJ-A1QD,Thyroid Carcinoma,Thymus,Bladder,False
+342,TCGA-RX-A8JQ,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+343,TCGA-WJ-A86L,Liver Hepatocellular Carcinoma,Liver,Liver,True
+344,TCGA-BH-A0W5,Breast Invasive Carcinoma,Breast,Breast,True
+345,TCGA-AC-A3TM,Breast Invasive Carcinoma,Breast,Breast,True
+346,TCGA-HD-8635,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+347,TCGA-A4-7583,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+348,TCGA-85-A50Z,Lung Squamous Cell Carcinoma,Lung,Lung,True
+349,TCGA-ZF-AA4T,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+350,TCGA-55-6978,Lung Adenocarcinoma,Lung,Lung,True
+351,TCGA-XJ-A9DI,Prostate Adenocarcinoma,Prostate,Prostate,True
+352,TCGA-A7-A13F,Breast Invasive Carcinoma,Breast,Breast,True
+353,TCGA-2Z-A9J8,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+354,TCGA-E7-A8O7,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+355,TCGA-FD-A5BV,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+356,TCGA-A8-A0AD,Breast Invasive Carcinoma,Breast,Breast,True
+357,TCGA-SR-A6MT,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+358,TCGA-BR-8285,Stomach Adenocarcinoma,Stomach,Stomach,True
+359,TCGA-ZD-A8I3,Cholangiocarcinoma,Colorectal,Colorectal,True
+360,TCGA-FG-A87Q,Brain Lower Grade Glioma,Brain,Brain,True
+361,TCGA-AD-6895,Colon Adenocarcinoma,Esophagus,Esophagus,True
+362,TCGA-CN-4740,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+363,TCGA-56-8624,Lung Squamous Cell Carcinoma,Lung,Lung,True
+364,TCGA-2Z-A9JL,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+365,TCGA-CW-5581,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+366,TCGA-CC-5259,Liver Hepatocellular Carcinoma,Liver,Liver,True
+367,TCGA-OR-A5LD,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+368,TCGA-KQ-A41Q,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+369,TCGA-ZF-AA58,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+370,TCGA-EW-A1P7,Breast Invasive Carcinoma,Breast,Breast,True
+371,TCGA-L5-A4OG,Esophageal Carcinoma,Esophagus,Stomach,False
+372,TCGA-BH-A203,Breast Invasive Carcinoma,Breast,Breast,True
+373,TCGA-VQ-AA6G,Stomach Adenocarcinoma,Testis,Testis,True
+374,TCGA-DD-A1EG,Liver Hepatocellular Carcinoma,Lung,Lung,True
+375,TCGA-B0-5706,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+376,TCGA-C9-A480,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+377,TCGA-V1-A8WN,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+378,TCGA-RY-A83Z,Brain Lower Grade Glioma,Liver,Liver,True
+379,TCGA-L5-A8NE,Esophageal Carcinoma,Esophagus,Esophagus,True
+380,TCGA-G7-6797,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+381,TCGA-39-5040,Lung Squamous Cell Carcinoma,Lung,Lung,True
+382,TCGA-55-8094,Lung Adenocarcinoma,Lung,Lung,True
+383,TCGA-2Y-A9HA,Liver Hepatocellular Carcinoma,Liver,Liver,True
+384,TCGA-BA-7269,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+385,TCGA-76-6662,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+386,TCGA-06-0221,Glioblastoma Multiforme,Brain,Brain,True
+387,TCGA-FY-A40M,Thyroid Carcinoma,Thyroid,Thyroid,True
+388,TCGA-2G-AAHA,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+389,TCGA-A4-7287,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+390,TCGA-TQ-A7RH,Brain Lower Grade Glioma,Liver,Liver,True
+391,TCGA-D7-A748,Stomach Adenocarcinoma,Testis,Testis,True
+392,TCGA-06-5413,Glioblastoma Multiforme,Brain,Brain,True
+393,TCGA-EB-A430,Skin Cutaneous Melanoma,Stomach,Stomach,True
+394,TCGA-LN-A4A2,Esophageal Carcinoma,Brain,Brain,True
+395,TCGA-E2-A573,Breast Invasive Carcinoma,Breast,Breast,True
+396,TCGA-CK-5915,Colon Adenocarcinoma,Colorectal,Stomach,False
+397,TCGA-G9-7525,Prostate Adenocarcinoma,Prostate,Prostate,True
+398,TCGA-RD-A7C1,Stomach Adenocarcinoma,Testis,Testis,True
+399,TCGA-SW-A7EB,Stomach Adenocarcinoma,Stomach,Stomach,True
+400,TCGA-CR-7369,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+401,TCGA-FC-A4JI,Prostate Adenocarcinoma,Prostate,Prostate,True
+402,TCGA-BP-5174,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+403,TCGA-VQ-A8PH,Stomach Adenocarcinoma,Stomach,Stomach,True
+404,TCGA-SC-A6LP,Mesothelioma,Pancreas,Pancreas,True
+405,TCGA-G5-6641,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+406,TCGA-75-5122,Lung Adenocarcinoma,Lung,Lung,True
+407,TCGA-HC-7821,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+408,TCGA-ED-A5KG,Liver Hepatocellular Carcinoma,Lung,Lung,True
+409,TCGA-XF-A9T5,Bladder Urothelial Carcinoma,Bladder,Esophagus,False
+410,TCGA-YL-A8SF,Prostate Adenocarcinoma,Prostate,Prostate,True
+411,TCGA-J8-A3YH,Thyroid Carcinoma,Thymus,Thymus,True
+412,TCGA-DX-AB2T,Sarcoma,Skin,Skin,True
+413,TCGA-XF-A9SJ,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+414,TCGA-43-6773,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+415,TCGA-KQ-A41N,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+416,TCGA-XF-AAN7,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+417,TCGA-CM-4747,Colon Adenocarcinoma,Colorectal,Colorectal,True
+418,TCGA-A2-A3XV,Breast Invasive Carcinoma,Breast,Breast,True
+419,TCGA-ET-A3DR,Thyroid Carcinoma,Thyroid,Thyroid,True
+420,TCGA-CZ-5460,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+421,TCGA-P5-A72U,Brain Lower Grade Glioma,Brain,Brain,True
+422,TCGA-R6-A6XQ,Esophageal Carcinoma,Brain,Brain,True
+423,TCGA-OL-A5RW,Breast Invasive Carcinoma,Breast,Breast,True
+424,TCGA-BH-A0C0,Breast Invasive Carcinoma,Breast,Breast,True
+425,TCGA-MZ-A5BI,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+426,TCGA-HC-8259,Prostate Adenocarcinoma,Prostate,Prostate,True
+427,TCGA-KK-A6E8,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+428,TCGA-LN-A9FO,Esophageal Carcinoma,Esophagus,Stomach,False
+429,TCGA-V1-A8MK,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+430,TCGA-OL-A66P,Breast Invasive Carcinoma,Breast,Breast,True
+431,TCGA-06-5412,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+432,TCGA-HT-8015,Brain Lower Grade Glioma,Brain,Brain,True
+433,TCGA-IW-A3M5,Sarcoma,Skin,Skin,True
+434,TCGA-CV-7104,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+435,TCGA-A4-7584,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+436,TCGA-DU-7290,Brain Lower Grade Glioma,Brain,Brain,True
+437,TCGA-VP-A87J,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+438,TCGA-D8-A27F,Breast Invasive Carcinoma,Breast,Breast,True
+439,TCGA-AQ-A04L,Breast Invasive Carcinoma,Breast,Breast,True
+440,TCGA-G4-6295,Colon Adenocarcinoma,Colorectal,Colorectal,True
+441,TCGA-49-AAR4,Lung Adenocarcinoma,Lung,Lung,True
+442,TCGA-ED-A627,Liver Hepatocellular Carcinoma,Liver,Liver,True
+443,TCGA-CV-7430,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+444,TCGA-SC-A6LR,Mesothelioma,Pancreas,Pancreas,True
+445,TCGA-AO-A0JF,Breast Invasive Carcinoma,Breast,Breast,True
+446,TCGA-BR-8081,Stomach Adenocarcinoma,Testis,Testis,True
+447,TCGA-39-5030,Lung Squamous Cell Carcinoma,Lung,Lung,True
+448,TCGA-DU-8161,Brain Lower Grade Glioma,Liver,Liver,True
+449,TCGA-43-8118,Lung Squamous Cell Carcinoma,Lung,Lung,True
+450,TCGA-CM-6165,Colon Adenocarcinoma,Colorectal,Colorectal,True
+451,TCGA-DC-6157,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+452,TCGA-HZ-A4BH,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+453,TCGA-LL-A8F5,Breast Invasive Carcinoma,Breast,Breast,True
+454,TCGA-BR-6565,Stomach Adenocarcinoma,Stomach,Stomach,True
+455,TCGA-CD-8524,Stomach Adenocarcinoma,Thyroid,Thyroid,True
+456,TCGA-CN-6988,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+457,TCGA-IE-A4EH,Sarcoma,Stomach,Stomach,True
+458,TCGA-TM-A84O,Brain Lower Grade Glioma,Brain,Brain,True
+459,TCGA-KL-8345,Kidney Chromophobe,Kidney,Kidney,True
+460,TCGA-DU-5871,Brain Lower Grade Glioma,Brain,Brain,True
+461,TCGA-IB-A5SS,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+462,TCGA-DJ-A3UV,Thyroid Carcinoma,Thymus,Thymus,True
+463,TCGA-KK-A6DY,Prostate Adenocarcinoma,Prostate,Prostate,True
+464,TCGA-26-5135,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+465,TCGA-CH-5751,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+466,TCGA-YS-AA4M,Mesothelioma,Pancreas,Pancreas,True
+467,TCGA-BA-5152,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+468,TCGA-L5-A8NG,Esophageal Carcinoma,Brain,Brain,True
+469,TCGA-KC-A7F6,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+470,TCGA-B0-5712,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+471,TCGA-TS-A8AV,Mesothelioma,Pancreas,Pancreas,True
+472,TCGA-CV-7245,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+473,TCGA-DD-A4NB,Liver Hepatocellular Carcinoma,Liver,Liver,True
+474,TCGA-AM-5820,Colon Adenocarcinoma,Colorectal,Colorectal,True
+475,TCGA-HT-7470,Brain Lower Grade Glioma,Brain,Brain,True
+476,TCGA-NC-A5HL,Lung Squamous Cell Carcinoma,Lung,Lung,True
+477,TCGA-S9-A6WG,Brain Lower Grade Glioma,Brain,Brain,True
+478,TCGA-EL-A3GZ,Thyroid Carcinoma,Thyroid,Thyroid,True
+479,TCGA-LI-A67I,Sarcoma,Soft Tissue,Soft Tissue,True
+480,TCGA-MQ-A6BN,Mesothelioma,Pancreas,Pancreas,True
+481,TCGA-G6-A8L8,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+482,TCGA-BA-A4IH,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+483,TCGA-62-A46O,Lung Adenocarcinoma,Lung,Lung,True
+484,TCGA-EJ-AB20,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+485,TCGA-3B-A9HI,Sarcoma,Soft Tissue,Soft Tissue,True
+486,TCGA-PR-A5PF,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+487,TCGA-CQ-A4CE,Head and Neck Squamous Cell Carcinoma,Head and Neck,Esophagus,False
+488,TCGA-AZ-4682,Colon Adenocarcinoma,Colorectal,Colorectal,True
+489,TCGA-DK-A3IL,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+490,TCGA-MO-A47P,Sarcoma,Soft Tissue,Soft Tissue,True
+491,TCGA-55-7994,Lung Adenocarcinoma,Lung,Lung,True
+492,TCGA-55-7727,Lung Adenocarcinoma,Lung,Lung,True
+493,TCGA-DD-AADF,Liver Hepatocellular Carcinoma,Liver,Liver,True
+494,TCGA-4A-A93Y,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+495,TCGA-RW-A681,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+496,TCGA-MP-A4T8,Lung Adenocarcinoma,Lung,Lung,True
+497,TCGA-EJ-5531,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+498,TCGA-AO-A12E,Breast Invasive Carcinoma,Breast,Breast,True
+499,TCGA-BH-A1FG,Breast Invasive Carcinoma,Breast,Breast,True
+500,TCGA-D6-6826,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+501,TCGA-MW-A4EC,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+502,TCGA-12-5299,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+503,TCGA-2H-A9GM,Esophageal Carcinoma,Esophagus,Bladder,False
+504,TCGA-91-8496,Lung Adenocarcinoma,Lung,Lung,True
+505,TCGA-RD-A7BT,Stomach Adenocarcinoma,Stomach,Stomach,True
+506,TCGA-CR-6471,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+507,TCGA-TS-A7P7,Mesothelioma,Pancreas,Pancreas,True
+508,TCGA-D6-8569,Head and Neck Squamous Cell Carcinoma,Head and Neck,Esophagus,False
+509,TCGA-HC-A6AS,Prostate Adenocarcinoma,Prostate,Prostate,True
+510,TCGA-FZ-5922,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+511,TCGA-TM-A7CA,Brain Lower Grade Glioma,Brain,Brain,True
+512,TCGA-GI-A2C9,Breast Invasive Carcinoma,Breast,Breast,True
+513,TCGA-EJ-A8FN,Prostate Adenocarcinoma,Prostate,Prostate,True
+514,TCGA-ZH-A8Y5,Cholangiocarcinoma,Colorectal,Colorectal,True
+515,TCGA-XQ-A8TB,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+516,TCGA-55-6984,Lung Adenocarcinoma,Lung,Lung,True
+517,TCGA-D5-6930,Colon Adenocarcinoma,Colorectal,Colorectal,True
+518,TCGA-E7-A4IJ,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+519,TCGA-DU-A5TS,Brain Lower Grade Glioma,Brain,Brain,True
+520,TCGA-SP-A6QI,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+521,TCGA-E2-A1LG,Breast Invasive Carcinoma,Breast,Breast,True
+522,TCGA-B0-5696,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+523,TCGA-E2-A105,Breast Invasive Carcinoma,Breast,Breast,True
+524,TCGA-S9-A6U5,Brain Lower Grade Glioma,Brain,Brain,True
+525,TCGA-J8-A3YD,Thyroid Carcinoma,Thyroid,Thyroid,True
+526,TCGA-VQ-A8PP,Stomach Adenocarcinoma,Stomach,Stomach,True
+527,TCGA-A2-A1FV,Breast Invasive Carcinoma,Breast,Breast,True
+528,TCGA-VQ-A91Z,Stomach Adenocarcinoma,Stomach,Stomach,True
+529,TCGA-F7-A61W,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+530,TCGA-FD-A3SM,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+531,TCGA-NJ-A55R,Lung Adenocarcinoma,Lung,Lung,True
+532,TCGA-CC-A123,Liver Hepatocellular Carcinoma,Liver,Liver,True
+533,TCGA-CM-4750,Colon Adenocarcinoma,Colorectal,Colorectal,True
+534,TCGA-EM-A3FM,Thyroid Carcinoma,Thyroid,Thyroid,True
+535,TCGA-BA-5555,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+536,TCGA-RC-A7SH,Liver Hepatocellular Carcinoma,Liver,Liver,True
+537,TCGA-EW-A1PE,Breast Invasive Carcinoma,Breast,Breast,True
+538,TCGA-CR-6493,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+539,TCGA-D7-6524,Stomach Adenocarcinoma,Testis,Testis,True
+540,TCGA-2A-A8VT,Prostate Adenocarcinoma,Prostate,Prostate,True
+541,TCGA-P5-A5F4,Brain Lower Grade Glioma,Brain,Brain,True
+542,TCGA-YL-A9WK,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+543,TCGA-F7-A623,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+544,TCGA-BP-5198,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+545,TCGA-UY-A78M,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+546,TCGA-LK-A4NW,Mesothelioma,Pancreas,Pancreas,True
+547,TCGA-EB-A44O,Skin Cutaneous Melanoma,Stomach,Stomach,True
+548,TCGA-EW-A1IX,Breast Invasive Carcinoma,Breast,Breast,True
+549,TCGA-EB-A550,Skin Cutaneous Melanoma,Stomach,Stomach,True
+550,TCGA-VQ-A8PT,Stomach Adenocarcinoma,Thyroid,Thyroid,True
+551,TCGA-H7-8502,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+552,TCGA-CG-5730,Stomach Adenocarcinoma,Stomach,Stomach,True
+553,TCGA-VQ-AA68,Stomach Adenocarcinoma,Testis,Testis,True
+554,TCGA-CD-5803,Stomach Adenocarcinoma,Stomach,Esophagus,False
+555,TCGA-IB-AAUO,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+556,TCGA-AC-A6IV,Breast Invasive Carcinoma,Breast,Breast,True
+557,TCGA-3A-A9IR,Pancreatic Adenocarcinoma,Adrenal Gland,Pancreas,False
+558,TCGA-G5-6235,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+559,TCGA-DB-A75K,Brain Lower Grade Glioma,Brain,Brain,True
+560,TCGA-EL-A3MZ,Thyroid Carcinoma,Thyroid,Thyroid,True
+561,TCGA-IB-7645,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+562,TCGA-2G-AAGV,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+563,TCGA-WB-A81M,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+564,TCGA-RW-A68G,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+565,TCGA-P3-A6T7,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+566,TCGA-DX-AB2J,Sarcoma,Skin,Skin,True
+567,TCGA-DD-AAEK,Liver Hepatocellular Carcinoma,Lung,Lung,True
+568,TCGA-A2-A3XW,Breast Invasive Carcinoma,Breast,Breast,True
+569,TCGA-WK-A8XY,Sarcoma,Skin,Skin,True
+570,TCGA-J4-A6G3,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+571,TCGA-DX-A8BG,Sarcoma,Soft Tissue,Soft Tissue,True
+572,TCGA-DJ-A1QF,Thyroid Carcinoma,Thyroid,Thyroid,True
+573,TCGA-IB-7885,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+574,TCGA-DV-5573,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+575,TCGA-E1-A7Z6,Brain Lower Grade Glioma,Brain,Brain,True
+576,TCGA-DU-7302,Brain Lower Grade Glioma,Brain,Brain,True
+577,TCGA-96-7544,Lung Squamous Cell Carcinoma,Lung,Lung,True
+578,TCGA-4A-A93X,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+579,TCGA-G9-6351,Prostate Adenocarcinoma,Prostate,Prostate,True
+580,TCGA-OR-A5KO,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+581,TCGA-55-6986,Lung Adenocarcinoma,Lung,Lung,True
+582,TCGA-B1-A655,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+583,TCGA-DM-A28A,Colon Adenocarcinoma,Esophagus,Stomach,False
+584,TCGA-91-8497,Lung Adenocarcinoma,Lung,Lung,True
+585,TCGA-VN-A88P,Prostate Adenocarcinoma,Prostate,Prostate,True
+586,TCGA-IB-7888,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+587,TCGA-KT-A7W1,Brain Lower Grade Glioma,Liver,Liver,True
+588,TCGA-EL-A3CL,Thyroid Carcinoma,Thyroid,Thyroid,True
+589,TCGA-HC-A6AL,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+590,TCGA-IQ-7631,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+591,TCGA-EJ-8470,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+592,TCGA-IF-A4AJ,Sarcoma,Skin,Skin,True
+593,TCGA-S9-A6WN,Brain Lower Grade Glioma,Brain,Brain,True
+594,TCGA-78-7147,Lung Adenocarcinoma,Lung,Lung,True
+595,TCGA-58-8387,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+596,TCGA-DD-AAE1,Liver Hepatocellular Carcinoma,Liver,Liver,True
+597,TCGA-CK-4947,Colon Adenocarcinoma,Esophagus,Esophagus,True
+598,TCGA-55-7816,Lung Adenocarcinoma,Lung,Lung,True
+599,TCGA-AG-A01W,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+600,TCGA-K1-A6RT,Sarcoma,Soft Tissue,Soft Tissue,True
+601,TCGA-EI-6882,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+602,TCGA-33-4586,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+603,TCGA-HZ-8317,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+604,TCGA-HU-A4H2,Stomach Adenocarcinoma,Stomach,Stomach,True
+605,TCGA-OR-A5JF,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+606,TCGA-67-4679,Lung Adenocarcinoma,Lung,Lung,True
+607,TCGA-G8-6324,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,Esophagus,Esophagus,True
+608,TCGA-CG-5717,Stomach Adenocarcinoma,Testis,Testis,True
+609,TCGA-5P-A9K4,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+610,TCGA-QR-A70U,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+611,TCGA-AR-A0TU,Breast Invasive Carcinoma,Breast,Breast,True
+612,TCGA-UB-A7MB,Liver Hepatocellular Carcinoma,Lung,Lung,True
+613,TCGA-43-7656,Lung Squamous Cell Carcinoma,Lung,Lung,True
+614,TCGA-EJ-7312,Prostate Adenocarcinoma,Prostate,Prostate,True
+615,TCGA-CI-6621,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+616,TCGA-BR-8058,Stomach Adenocarcinoma,Stomach,Stomach,True
+617,TCGA-CZ-4859,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+618,TCGA-FG-A70Y,Brain Lower Grade Glioma,Brain,Brain,True
+619,TCGA-L9-A443,Lung Adenocarcinoma,Lung,Lung,True
+620,TCGA-BA-A6DA,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+621,TCGA-CJ-5680,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+622,TCGA-DJ-A3UR,Thyroid Carcinoma,Thymus,Thymus,True
+623,TCGA-QU-A6IO,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+624,TCGA-HT-7687,Brain Lower Grade Glioma,Brain,Brain,True
+625,TCGA-AO-A03N,Breast Invasive Carcinoma,Breast,Breast,True
+626,TCGA-OR-A5J3,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+627,TCGA-AK-3458,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+628,TCGA-D7-A6F0,Stomach Adenocarcinoma,Stomach,Stomach,True
+629,TCGA-IE-A4EK,Sarcoma,Stomach,Esophagus,False
+630,TCGA-CJ-4901,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+631,TCGA-EJ-A8FP,Prostate Adenocarcinoma,Prostate,Prostate,True
+632,TCGA-55-8614,Lung Adenocarcinoma,Lung,Lung,True
+633,TCGA-S9-A6TW,Brain Lower Grade Glioma,Brain,Brain,True
+634,TCGA-KN-8433,Kidney Chromophobe,Kidney,Kidney,True
+635,TCGA-68-8250,Lung Squamous Cell Carcinoma,Lung,Lung,True
+636,TCGA-2Z-A9JK,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+637,TCGA-55-7284,Lung Adenocarcinoma,Lung,Lung,True
+638,TCGA-2G-AALN,,Thyroid,Thyroid,True
+639,TCGA-AR-A2LJ,Breast Invasive Carcinoma,Breast,Breast,True
+640,TCGA-TT-A6YJ,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+641,TCGA-AF-A56N,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+642,TCGA-DX-A3LS,Sarcoma,Stomach,Esophagus,False
+643,TCGA-J4-A67Q,Prostate Adenocarcinoma,Prostate,Prostate,True
+644,TCGA-EM-A3FN,Thyroid Carcinoma,Thymus,Thymus,True
+645,TCGA-NJ-A4YF,Lung Adenocarcinoma,Lung,Lung,True
+646,TCGA-GU-A42Q,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+647,TCGA-IE-A4EI,Sarcoma,Skin,Skin,True
+648,TCGA-77-7140,Lung Squamous Cell Carcinoma,Lung,Lung,True
+649,TCGA-BR-8286,Stomach Adenocarcinoma,Stomach,Stomach,True
+650,TCGA-CF-A47Y,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+651,TCGA-A1-A0SE,Breast Invasive Carcinoma,Breast,Breast,True
+652,TCGA-CV-5432,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+653,TCGA-FF-8041,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,Esophagus,Esophagus,True
+654,TCGA-SX-A71U,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+655,TCGA-63-A5MJ,Lung Squamous Cell Carcinoma,Lung,Lung,True
+656,TCGA-L5-A891,Esophageal Carcinoma,Esophagus,Esophagus,True
+657,TCGA-BF-A1PX,Skin Cutaneous Melanoma,Stomach,Stomach,True
+658,TCGA-GM-A3XG,Breast Invasive Carcinoma,Breast,Breast,True
+659,TCGA-DB-5279,Brain Lower Grade Glioma,Brain,Brain,True
+660,TCGA-DD-AAC9,Liver Hepatocellular Carcinoma,Lung,Lung,True
+661,TCGA-B0-5703,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+662,TCGA-55-6968,Lung Adenocarcinoma,Lung,Lung,True
+663,TCGA-DM-A280,Colon Adenocarcinoma,Colorectal,Colorectal,True
+664,TCGA-VQ-A91N,Stomach Adenocarcinoma,Stomach,Stomach,True
+665,TCGA-DU-7019,Brain Lower Grade Glioma,Liver,Liver,True
+666,TCGA-KK-A6E4,Prostate Adenocarcinoma,Prostate,Prostate,True
+667,TCGA-CV-A6JO,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+668,TCGA-QQ-A5VB,Sarcoma,Stomach,Stomach,True
+669,TCGA-63-A5MG,Lung Squamous Cell Carcinoma,Lung,Lung,True
+670,TCGA-KO-8407,Kidney Chromophobe,Kidney,Kidney,True
+671,TCGA-CN-4738,Head and Neck Squamous Cell Carcinoma,Head and Neck,Esophagus,False
+672,TCGA-G8-6906,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,Esophagus,Esophagus,True
+673,TCGA-86-8073,Lung Adenocarcinoma,Lung,Lung,True
+674,TCGA-AC-A8OP,Breast Invasive Carcinoma,Breast,Breast,True
+675,TCGA-CN-6019,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+676,TCGA-AA-3496,Colon Adenocarcinoma,Colorectal,Colorectal,True
+677,TCGA-S8-A6BW,Esophageal Carcinoma,Esophagus,Esophagus,True
+678,TCGA-CV-6948,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+679,TCGA-76-4926,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+680,TCGA-EM-A1YD,Thyroid Carcinoma,Thyroid,Thyroid,True
+681,TCGA-RB-A7B8,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+682,TCGA-XF-A8HG,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+683,TCGA-ZF-A9RG,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+684,TCGA-SO-A8JP,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+685,TCGA-TQ-A7RR,Brain Lower Grade Glioma,Brain,Brain,True
+686,TCGA-55-6971,Lung Adenocarcinoma,Lung,Lung,True
+687,TCGA-EL-A3ZP,Thyroid Carcinoma,Thymus,Thymus,True
+688,TCGA-OR-A5LP,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+689,TCGA-85-7950,Lung Squamous Cell Carcinoma,Lung,Lung,True
+690,TCGA-X9-A973,Sarcoma,Skin,Skin,True
+691,TCGA-HE-A5NF,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+692,TCGA-CV-7422,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+693,TCGA-IQ-A61G,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+694,TCGA-BA-5149,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+695,TCGA-M7-A71Y,Prostate Adenocarcinoma,Prostate,Prostate,True
+696,TCGA-A2-A3XY,Breast Invasive Carcinoma,Breast,Breast,True
+697,TCGA-FG-6692,Brain Lower Grade Glioma,Brain,Brain,True
+698,TCGA-55-7728,Lung Adenocarcinoma,Lung,Lung,True
+699,TCGA-22-A5C4,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+700,TCGA-FG-A4MU,Brain Lower Grade Glioma,Brain,Brain,True
+701,TCGA-GM-A2DC,Breast Invasive Carcinoma,Breast,Breast,True
+702,TCGA-JY-A93D,Esophageal Carcinoma,Esophagus,Stomach,False
+703,TCGA-DD-AACJ,Liver Hepatocellular Carcinoma,Liver,Liver,True
+704,TCGA-IB-7893,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+705,TCGA-HU-A4HD,Stomach Adenocarcinoma,Thyroid,Thyroid,True
+706,TCGA-HT-7692,Brain Lower Grade Glioma,Brain,Brain,True
+707,TCGA-DV-A4VX,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+708,TCGA-DM-A0X9,Colon Adenocarcinoma,Colorectal,Colorectal,True
+709,TCGA-DE-A0XZ,Thyroid Carcinoma,Thyroid,Thyroid,True
+710,TCGA-EL-A4K2,Thyroid Carcinoma,Thyroid,Thyroid,True
+711,TCGA-VQ-A8P5,Stomach Adenocarcinoma,Testis,Testis,True
+712,TCGA-5P-A9JU,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+713,TCGA-19-5950,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+714,TCGA-HT-8012,Brain Lower Grade Glioma,Liver,Liver,True
+715,TCGA-AN-A0XS,Breast Invasive Carcinoma,Breast,Breast,True
+716,TCGA-HC-8261,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+717,TCGA-HC-A8D0,Prostate Adenocarcinoma,Prostate,Prostate,True
+718,TCGA-HI-7169,Prostate Adenocarcinoma,Prostate,Prostate,True
+719,TCGA-L1-A7W4,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+720,TCGA-EM-A2OY,Thyroid Carcinoma,Thymus,Thymus,True
+721,TCGA-LL-A440,Breast Invasive Carcinoma,Breast,Breast,True
+722,TCGA-GM-A2DL,Breast Invasive Carcinoma,Breast,Breast,True
+723,TCGA-DX-AB3B,Sarcoma,Soft Tissue,Soft Tissue,True
+724,TCGA-CV-7415,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+725,TCGA-A2-A0YD,Breast Invasive Carcinoma,Breast,Breast,True
+726,TCGA-IB-7887,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+727,TCGA-ET-A3BU,Thyroid Carcinoma,Thyroid,Thyroid,True
+728,TCGA-HN-A2NL,Breast Invasive Carcinoma,Breast,Breast,True
+729,TCGA-55-8511,Lung Adenocarcinoma,Lung,Lung,True
+730,TCGA-FD-A3SQ,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+731,TCGA-DC-6683,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+732,TCGA-2G-AAGX,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+733,TCGA-AD-6888,Colon Adenocarcinoma,Colorectal,Colorectal,True
+734,TCGA-97-A4M1,Lung Adenocarcinoma,Lung,Lung,True
+735,TCGA-2K-A9WE,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+736,TCGA-CZ-5988,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+737,TCGA-US-A774,Pancreatic Adenocarcinoma,Prostate,Prostate,True
+738,TCGA-G9-6329,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+739,TCGA-BJ-A2N7,Thyroid Carcinoma,Thyroid,Thyroid,True
+740,TCGA-VN-A88Q,Prostate Adenocarcinoma,Prostate,Prostate,True
+741,TCGA-D7-5579,Stomach Adenocarcinoma,Testis,Testis,True
+742,TCGA-BL-A13J,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+743,TCGA-BR-6801,Stomach Adenocarcinoma,Stomach,Stomach,True
+744,TCGA-DX-A3U6,Sarcoma,Stomach,Stomach,True
+745,TCGA-HC-7736,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+746,TCGA-O2-A52N,Lung Squamous Cell Carcinoma,Lung,Lung,True
+747,TCGA-FY-A4B3,Thyroid Carcinoma,Thyroid,Thyroid,True
+748,TCGA-EL-A3ZG,Thyroid Carcinoma,Thyroid,Thyroid,True
+749,TCGA-CV-6939,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+750,TCGA-AR-A0TQ,Breast Invasive Carcinoma,Breast,Breast,True
+751,TCGA-A6-3809,Colon Adenocarcinoma,Colorectal,Colorectal,True
+752,TCGA-UZ-A9Q0,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+753,TCGA-70-6722,Lung Squamous Cell Carcinoma,Lung,Lung,True
+754,TCGA-55-8096,Lung Adenocarcinoma,Lung,Lung,True
+755,TCGA-TS-A7PB,Mesothelioma,Pancreas,Pancreas,True
+756,TCGA-EW-A6S9,Breast Invasive Carcinoma,Breast,Breast,True
+757,TCGA-D8-A1XB,Breast Invasive Carcinoma,Breast,Breast,True
+758,TCGA-56-7730,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+759,TCGA-DD-A11D,Liver Hepatocellular Carcinoma,Liver,Liver,True
+760,TCGA-X6-A7WA,Sarcoma,Soft Tissue,Soft Tissue,True
+761,TCGA-VQ-A94R,Stomach Adenocarcinoma,Testis,Testis,True
+762,TCGA-V1-A9ZG,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+763,TCGA-CM-4744,Colon Adenocarcinoma,Colorectal,Colorectal,True
+764,TCGA-F9-A7VF,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+765,TCGA-50-6592,Lung Adenocarcinoma,Lung,Lung,True
+766,TCGA-BA-A6DB,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+767,TCGA-VP-A879,Prostate Adenocarcinoma,Prostate,Prostate,True
+768,TCGA-CV-6433,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+769,TCGA-KM-8438,Kidney Chromophobe,Kidney,Kidney,True
+770,TCGA-FA-A4BB,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,Esophagus,Esophagus,True
+771,TCGA-HU-A4GD,Stomach Adenocarcinoma,Stomach,Pancreas,False
+772,TCGA-EB-A41B,Skin Cutaneous Melanoma,Stomach,Stomach,True
+773,TCGA-BR-7715,Stomach Adenocarcinoma,Testis,Testis,True
+774,TCGA-ZH-A8Y4,Cholangiocarcinoma,Colorectal,Colorectal,True
+775,TCGA-BQ-5878,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+776,TCGA-SP-A6QG,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+777,TCGA-49-6745,Lung Adenocarcinoma,Lung,Lung,True
+778,TCGA-DX-A7EU,Sarcoma,Stomach,Stomach,True
+779,TCGA-MS-A51U,Breast Invasive Carcinoma,Breast,Breast,True
+780,TCGA-XF-AAMG,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+781,TCGA-L5-A893,Esophageal Carcinoma,Brain,Brain,True
+782,TCGA-VQ-A8P3,Stomach Adenocarcinoma,Testis,Testis,True
+783,TCGA-CQ-6222,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+784,TCGA-QR-A6GS,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+785,TCGA-AH-6544,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+786,TCGA-NQ-A638,Mesothelioma,Pancreas,Pancreas,True
+787,TCGA-98-A53B,Lung Squamous Cell Carcinoma,Lung,Lung,True
+788,TCGA-BP-5196,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+789,TCGA-DB-5270,Brain Lower Grade Glioma,Brain,Brain,True
+790,TCGA-HC-7081,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+791,TCGA-L5-A4OT,Esophageal Carcinoma,Brain,Brain,True
+792,TCGA-DD-A73G,Liver Hepatocellular Carcinoma,Liver,Liver,True
+793,TCGA-VP-A87C,Prostate Adenocarcinoma,Prostate,Prostate,True
+794,TCGA-DD-A114,Liver Hepatocellular Carcinoma,Lung,Lung,True
+795,TCGA-KN-8436,Kidney Chromophobe,Kidney,Kidney,True
+796,TCGA-06-6695,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+797,TCGA-VR-A8EY,Esophageal Carcinoma,Brain,Brain,True
+798,TCGA-EI-6881,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+799,TCGA-S7-A7WU,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+800,TCGA-KS-A41F,Thyroid Carcinoma,Thymus,Thymus,True
+801,TCGA-TQ-A7RV,Brain Lower Grade Glioma,Brain,Brain,True
+802,TCGA-QT-A5XM,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+803,TCGA-69-7974,Lung Adenocarcinoma,Lung,Lung,True
+804,TCGA-KO-8409,Kidney Chromophobe,Kidney,Kidney,True
+805,TCGA-78-7143,Lung Adenocarcinoma,Lung,Lung,True
+806,TCGA-G4-6307,Colon Adenocarcinoma,Colorectal,Colorectal,True
+807,TCGA-OR-A5JV,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+808,TCGA-DD-AAVP,Liver Hepatocellular Carcinoma,Liver,Liver,True
+809,TCGA-06-5417,Glioblastoma Multiforme,Brain,Brain,True
+810,TCGA-A7-A26E,Breast Invasive Carcinoma,Breast,Breast,True
+811,TCGA-ET-A39N,Thyroid Carcinoma,Thyroid,Thyroid,True
+812,TCGA-DM-A282,Colon Adenocarcinoma,Colorectal,Colorectal,True
+813,TCGA-FG-A6J1,Brain Lower Grade Glioma,Brain,Brain,True
+814,TCGA-22-5472,Lung Squamous Cell Carcinoma,Lung,Lung,True
+815,TCGA-DB-5278,Brain Lower Grade Glioma,Brain,Brain,True
+816,TCGA-CV-6952,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+817,TCGA-2G-AAH4,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+818,TCGA-E9-A1R6,Breast Invasive Carcinoma,Breast,Breast,True
+819,TCGA-AR-A2LO,Breast Invasive Carcinoma,Breast,Breast,True
+820,TCGA-85-A4CL,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+821,TCGA-LD-A66U,Breast Invasive Carcinoma,Breast,Breast,True
+822,TCGA-EL-A4JX,Thyroid Carcinoma,Thymus,Thymus,True
+823,TCGA-B0-5119,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+824,TCGA-HC-7232,Prostate Adenocarcinoma,Prostate,Prostate,True
+825,TCGA-D8-A1JE,Breast Invasive Carcinoma,Breast,Breast,True
+826,TCGA-FD-A3SJ,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+827,TCGA-77-7138,Lung Squamous Cell Carcinoma,Lung,Lung,True
+828,TCGA-DB-A64V,Brain Lower Grade Glioma,Brain,Brain,True
+829,TCGA-QR-A70E,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+830,TCGA-D7-A4YT,Stomach Adenocarcinoma,Stomach,Stomach,True
+831,TCGA-K4-A6FZ,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+832,TCGA-DD-AADW,Liver Hepatocellular Carcinoma,Liver,Liver,True
+833,TCGA-CQ-5327,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+834,TCGA-EM-A1CT,Thyroid Carcinoma,Thyroid,Thyroid,True
+835,TCGA-B0-5812,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+836,TCGA-FG-A87N,Brain Lower Grade Glioma,Brain,Brain,True
+837,TCGA-XF-AAN2,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+838,TCGA-DU-A6S6,Brain Lower Grade Glioma,Liver,Liver,True
+839,TCGA-91-6849,Lung Adenocarcinoma,Lung,Lung,True
+840,TCGA-DU-5874,Brain Lower Grade Glioma,Brain,Brain,True
+841,TCGA-49-AARE,Lung Adenocarcinoma,Lung,Lung,True
+842,TCGA-CN-6998,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+843,TCGA-55-7227,Lung Adenocarcinoma,Lung,Lung,True
+844,TCGA-CS-5397,Brain Lower Grade Glioma,Brain,Brain,True
+845,TCGA-2G-AALQ,,Thyroid,Thyroid,True
+846,TCGA-RY-A847,Brain Lower Grade Glioma,Liver,Liver,True
+847,TCGA-KK-A8I8,Prostate Adenocarcinoma,Prostate,Prostate,True
+848,TCGA-EW-A1P5,Breast Invasive Carcinoma,Breast,Breast,True
+849,TCGA-2G-AALR,,Thyroid,Thyroid,True
+850,TCGA-QK-A8ZB,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+851,TCGA-BA-A6DL,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+852,TCGA-KK-A7AU,Prostate Adenocarcinoma,Prostate,Prostate,True
+853,TCGA-EJ-5506,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+854,TCGA-DK-A3IN,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+855,TCGA-W5-AA2Q,Cholangiocarcinoma,Colorectal,Colorectal,True
+856,TCGA-53-A4EZ,Lung Adenocarcinoma,Lung,Lung,True
+857,TCGA-QH-A6X3,Brain Lower Grade Glioma,Brain,Brain,True
+858,TCGA-D6-A74Q,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+859,TCGA-AZ-6603,Colon Adenocarcinoma,Colorectal,Colorectal,True
+860,TCGA-GS-A9U4,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,Esophagus,Esophagus,True
+861,TCGA-ZG-A9LU,Prostate Adenocarcinoma,Prostate,Prostate,True
+862,TCGA-DX-A48O,Sarcoma,Skin,Skin,True
+863,TCGA-E3-A3E1,Thyroid Carcinoma,Thymus,Thymus,True
+864,TCGA-HC-7750,Prostate Adenocarcinoma,Prostate,Prostate,True
+865,TCGA-BR-7723,Stomach Adenocarcinoma,Testis,Testis,True
+866,TCGA-EL-A3CN,Thyroid Carcinoma,Thyroid,Thyroid,True
+867,TCGA-VQ-A8PZ,Stomach Adenocarcinoma,Thyroid,Thyroid,True
+868,TCGA-KO-8404,Kidney Chromophobe,Kidney,Kidney,True
+869,TCGA-CD-5813,Stomach Adenocarcinoma,Stomach,Stomach,True
+870,TCGA-XF-A9SG,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+871,TCGA-AF-4110,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+872,TCGA-49-6744,Lung Adenocarcinoma,Lung,Lung,True
+873,TCGA-AR-A1AI,Breast Invasive Carcinoma,Breast,Breast,True
+874,TCGA-R6-A6DN,Esophageal Carcinoma,Esophagus,Stomach,False
+875,TCGA-E2-A10C,Breast Invasive Carcinoma,Breast,Breast,True
+876,TCGA-DQ-7589,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+877,TCGA-60-2709,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+878,TCGA-75-7031,Lung Adenocarcinoma,Lung,Lung,True
+879,TCGA-EJ-5503,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+880,TCGA-BH-A0RX,Breast Invasive Carcinoma,Breast,Breast,True
+881,TCGA-CN-4729,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+882,TCGA-CJ-4905,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+883,TCGA-3M-AB47,Stomach Adenocarcinoma,Thyroid,Thyroid,True
+884,TCGA-AR-A1AP,Breast Invasive Carcinoma,Breast,Breast,True
+885,TCGA-B6-A0I1,Breast Invasive Carcinoma,Breast,Breast,True
+886,TCGA-EB-A551,Skin Cutaneous Melanoma,Stomach,Stomach,True
+887,TCGA-DM-A28F,Colon Adenocarcinoma,Colorectal,Colorectal,True
+888,TCGA-CM-6162,Colon Adenocarcinoma,Colorectal,Colorectal,True
+889,TCGA-YL-A9WJ,Prostate Adenocarcinoma,Prostate,Prostate,True
+890,TCGA-MP-A4T7,Lung Adenocarcinoma,Lung,Lung,True
+891,TCGA-E2-A1LI,Breast Invasive Carcinoma,Breast,Breast,True
+892,TCGA-CZ-5984,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+893,TCGA-IN-A7NT,Stomach Adenocarcinoma,Stomach,Stomach,True
+894,TCGA-VQ-A8PU,Stomach Adenocarcinoma,Stomach,Stomach,True
+895,TCGA-91-6829,Lung Adenocarcinoma,Lung,Lung,True
+896,TCGA-SB-A6J6,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+897,TCGA-BH-A42U,Breast Invasive Carcinoma,Breast,Breast,True
+898,TCGA-BD-A3ER,Liver Hepatocellular Carcinoma,Liver,Liver,True
+899,TCGA-DD-A119,Liver Hepatocellular Carcinoma,Lung,Lung,True
+900,TCGA-A4-7286,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+901,TCGA-VQ-A927,Stomach Adenocarcinoma,Stomach,Stomach,True
+902,TCGA-FX-A2QS,Sarcoma,Skin,Skin,True
+903,TCGA-MZ-A6I9,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+904,TCGA-ZF-AA54,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+905,TCGA-US-A779,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+906,TCGA-CE-A13K,Thyroid Carcinoma,Thymus,Thymus,True
+907,TCGA-GM-A2DI,Breast Invasive Carcinoma,Breast,Breast,True
+908,TCGA-F5-6812,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+909,TCGA-BH-A0B2,,Breast,Breast,True
+910,TCGA-L6-A4ET,Thyroid Carcinoma,Thyroid,Thyroid,True
+911,TCGA-H2-A26U,Thyroid Carcinoma,Thyroid,Thyroid,True
+912,TCGA-D8-A1XY,Breast Invasive Carcinoma,Breast,Breast,True
+913,TCGA-S9-A6WH,Brain Lower Grade Glioma,Brain,Brain,True
+914,TCGA-74-6581,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+915,TCGA-BR-A4J4,Stomach Adenocarcinoma,Testis,Testis,True
+916,TCGA-FD-A6TK,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+917,TCGA-2H-A9GO,Esophageal Carcinoma,Brain,Brain,True
+918,TCGA-06-6390,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+919,TCGA-GM-A5PV,Breast Invasive Carcinoma,Breast,Breast,True
+920,TCGA-94-8491,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+921,TCGA-HU-A4GH,Stomach Adenocarcinoma,Testis,Testis,True
+922,TCGA-2G-AAFV,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+923,TCGA-MQ-A4LJ,Mesothelioma,Pancreas,Pancreas,True
+924,TCGA-78-7153,Lung Adenocarcinoma,Lung,Lung,True
+925,TCGA-AC-A2FB,Breast Invasive Carcinoma,Breast,Breast,True
+926,TCGA-B8-A7U6,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+927,TCGA-CN-6995,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+928,TCGA-D6-6515,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+929,TCGA-NC-A5HG,Lung Squamous Cell Carcinoma,Lung,Lung,True
+930,TCGA-BR-8384,Stomach Adenocarcinoma,Stomach,Stomach,True
+931,TCGA-KN-8431,Kidney Chromophobe,Kidney,Kidney,True
+932,TCGA-AZ-4308,Colon Adenocarcinoma,Colorectal,Colorectal,True
+933,TCGA-B0-4697,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+934,TCGA-BL-A13I,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+935,TCGA-IQ-A61O,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+936,TCGA-MH-A561,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+937,TCGA-L5-A4OM,Esophageal Carcinoma,Brain,Brain,True
+938,TCGA-GK-A6C7,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+939,TCGA-QR-A6H1,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+940,TCGA-34-5232,Lung Squamous Cell Carcinoma,Lung,Lung,True
+941,TCGA-ZM-AA0F,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+942,TCGA-EW-A1P4,Breast Invasive Carcinoma,Breast,Breast,True
+943,TCGA-DH-5142,Brain Lower Grade Glioma,Liver,Liver,True
+944,TCGA-PC-A5DO,Sarcoma,Skin,Skin,True
+945,TCGA-BH-A0DP,Breast Invasive Carcinoma,Breast,Breast,True
+946,TCGA-CR-6492,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+947,TCGA-BR-A4J1,Stomach Adenocarcinoma,Thyroid,Thyroid,True
+948,TCGA-B6-A0X5,Breast Invasive Carcinoma,Breast,Breast,True
+949,TCGA-Y8-A898,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+950,TCGA-CV-7242,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+951,TCGA-NH-A50V,Colon Adenocarcinoma,Esophagus,Esophagus,True
+952,TCGA-CN-5369,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+953,TCGA-VR-A8EO,Esophageal Carcinoma,Esophagus,Esophagus,True
+954,TCGA-86-8054,Lung Adenocarcinoma,Lung,Lung,True
+955,TCGA-AD-6899,Colon Adenocarcinoma,Colorectal,Colorectal,True
+956,TCGA-CN-6010,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+957,TCGA-B0-4816,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+958,TCGA-YL-A8HK,Prostate Adenocarcinoma,Prostate,Prostate,True
+959,TCGA-DD-AAC8,Liver Hepatocellular Carcinoma,Liver,Soft Tissue,False
+960,TCGA-HI-7170,Prostate Adenocarcinoma,Prostate,Prostate,True
+961,TCGA-2G-AAGO,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+962,TCGA-D7-A6F2,Stomach Adenocarcinoma,Stomach,Stomach,True
+963,TCGA-HZ-8002,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+964,TCGA-BR-A4QI,Stomach Adenocarcinoma,Stomach,Stomach,True
+965,TCGA-2H-A9GI,Esophageal Carcinoma,Esophagus,Head and Neck,False
+966,TCGA-CN-A63V,Head and Neck Squamous Cell Carcinoma,Head and Neck,Breast,False
+967,TCGA-E9-A243,Breast Invasive Carcinoma,Breast,Breast,True
+968,TCGA-UB-AA0U,Liver Hepatocellular Carcinoma,Liver,Liver,True
+969,TCGA-85-A510,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+970,TCGA-KL-8346,Kidney Chromophobe,Kidney,Kidney,True
+971,TCGA-E9-A226,Breast Invasive Carcinoma,Breast,Breast,True
+972,TCGA-E2-A1II,Breast Invasive Carcinoma,Breast,Breast,True
+973,TCGA-DU-7294,Brain Lower Grade Glioma,Brain,Brain,True
+974,TCGA-KL-8328,Kidney Chromophobe,Kidney,Kidney,True
+975,TCGA-BQ-7056,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+976,TCGA-TM-A84L,Brain Lower Grade Glioma,Liver,Liver,True
+977,TCGA-CW-5590,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+978,TCGA-77-6842,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+979,TCGA-DC-5869,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+980,TCGA-2G-AAHC,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+981,TCGA-CD-A4MI,Stomach Adenocarcinoma,Stomach,Stomach,True
+982,TCGA-E5-A4U1,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+983,TCGA-FD-A43S,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+984,TCGA-DK-A3IV,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+985,TCGA-DJ-A3VI,Thyroid Carcinoma,Thymus,Thymus,True
+986,TCGA-QT-A5XJ,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+987,TCGA-LN-A9FQ,Esophageal Carcinoma,Esophagus,Head and Neck,False
+988,TCGA-GM-A2DO,Breast Invasive Carcinoma,Breast,Breast,True
+989,TCGA-KO-8413,Kidney Chromophobe,Kidney,Kidney,True
+990,TCGA-DD-AAVW,Liver Hepatocellular Carcinoma,Liver,Liver,True
+991,TCGA-DJ-A1QM,Thyroid Carcinoma,Thyroid,Thyroid,True
+992,TCGA-CV-7438,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+993,TCGA-XE-AANV,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+994,TCGA-CV-6937,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+995,TCGA-D7-A6ET,Stomach Adenocarcinoma,Testis,Testis,True
+996,TCGA-86-7953,Lung Adenocarcinoma,Lung,Lung,True
+997,TCGA-BR-7197,Stomach Adenocarcinoma,Testis,Testis,True
+998,TCGA-BQ-7048,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+999,TCGA-S9-A7IQ,Brain Lower Grade Glioma,Brain,Brain,True
+1000,TCGA-E2-A10F,Breast Invasive Carcinoma,Breast,Breast,True
+1001,TCGA-QQ-A8VH,Sarcoma,Skin,Skin,True
+1002,TCGA-WD-A7RX,Cholangiocarcinoma,Colorectal,Colorectal,True
+1003,TCGA-06-0190,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+1004,TCGA-HC-7752,Prostate Adenocarcinoma,Prostate,Prostate,True
+1005,TCGA-DJ-A2QB,Thyroid Carcinoma,Thyroid,Thyroid,True
+1006,TCGA-ET-A39K,Thyroid Carcinoma,Thyroid,Thyroid,True
+1007,TCGA-E2-A1BD,Breast Invasive Carcinoma,Breast,Breast,True
+1008,TCGA-D5-6929,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1009,TCGA-MK-A4N9,Thyroid Carcinoma,Thyroid,Thyroid,True
+1010,TCGA-92-8064,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1011,TCGA-BR-8370,Stomach Adenocarcinoma,Stomach,Stomach,True
+1012,TCGA-12-5295,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+1013,TCGA-G4-6309,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1014,TCGA-GD-A3OP,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1015,TCGA-VQ-A94U,Stomach Adenocarcinoma,Stomach,Stomach,True
+1016,TCGA-2G-AAGN,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+1017,TCGA-BH-A0BF,Breast Invasive Carcinoma,Breast,Breast,True
+1018,TCGA-HW-7487,Brain Lower Grade Glioma,Brain,Brain,True
+1019,TCGA-BH-A5IZ,Breast Invasive Carcinoma,Breast,Breast,True
+1020,TCGA-DJ-A2PS,Thyroid Carcinoma,Thyroid,Thyroid,True
+1021,TCGA-V1-A9O5,Prostate Adenocarcinoma,Prostate,Prostate,True
+1022,TCGA-UD-AAC6,Mesothelioma,Pancreas,Pancreas,True
+1023,TCGA-S5-A6DX,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1024,TCGA-CN-5370,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1025,TCGA-XE-A8H5,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+1026,TCGA-XF-AAME,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1027,TCGA-VQ-AA6I,Stomach Adenocarcinoma,Stomach,Stomach,True
+1028,TCGA-AR-A24U,Breast Invasive Carcinoma,Breast,Breast,True
+1029,TCGA-CR-7393,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1030,TCGA-2Y-A9GZ,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1031,TCGA-AC-A3W5,Breast Invasive Carcinoma,Breast,Breast,True
+1032,TCGA-53-7813,Lung Adenocarcinoma,Lung,Lung,True
+1033,TCGA-21-5783,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1034,TCGA-CV-6962,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1035,TCGA-BQ-7055,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+1036,TCGA-RS-A6TP,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1037,TCGA-EW-A1OY,Breast Invasive Carcinoma,Breast,Breast,True
+1038,TCGA-NK-A5CT,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1039,TCGA-L5-A43I,Esophageal Carcinoma,Brain,Brain,True
+1040,TCGA-86-6562,Lung Adenocarcinoma,Lung,Lung,True
+1041,TCGA-77-A5G8,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1042,TCGA-B6-A0RP,Breast Invasive Carcinoma,Breast,Breast,True
+1043,TCGA-EL-A3CY,Thyroid Carcinoma,Thyroid,Thyroid,True
+1044,TCGA-IN-A6RN,Stomach Adenocarcinoma,Stomach,Stomach,True
+1045,TCGA-85-7697,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1046,TCGA-RB-AA9M,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+1047,TCGA-AR-A0TT,Breast Invasive Carcinoma,Breast,Breast,True
+1048,TCGA-BP-5181,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1049,TCGA-E9-A5FL,Breast Invasive Carcinoma,Breast,Breast,True
+1050,TCGA-ZM-AA0E,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+1051,TCGA-LL-A5YM,Breast Invasive Carcinoma,Breast,Breast,True
+1052,TCGA-IP-7968,Stomach Adenocarcinoma,Stomach,Stomach,True
+1053,TCGA-A4-A4ZT,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+1054,TCGA-BH-A1EU,Breast Invasive Carcinoma,Breast,Breast,True
+1055,TCGA-HT-7616,Brain Lower Grade Glioma,Brain,Brain,True
+1056,TCGA-K4-A5RI,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1057,TCGA-B0-5110,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1058,TCGA-AR-A1AU,Breast Invasive Carcinoma,Breast,Breast,True
+1059,TCGA-BF-AAP1,Skin Cutaneous Melanoma,Stomach,Stomach,True
+1060,TCGA-69-7764,Lung Adenocarcinoma,Lung,Lung,True
+1061,TCGA-37-A5EL,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1062,TCGA-D8-A1JL,Breast Invasive Carcinoma,Breast,Breast,True
+1063,TCGA-2Y-A9H6,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1064,TCGA-J9-A8CP,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+1065,TCGA-D7-A4Z0,Stomach Adenocarcinoma,Stomach,Stomach,True
+1066,TCGA-YS-A95C,Mesothelioma,Pancreas,Pancreas,True
+1067,TCGA-28-5211,Glioblastoma Multiforme,Head and Neck,Head and Neck,True
+1068,TCGA-D6-A6EK,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1069,TCGA-C8-A1HN,Breast Invasive Carcinoma,Breast,Breast,True
+1070,TCGA-B4-5377,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1071,TCGA-CZ-4864,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1072,TCGA-BQ-5885,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+1073,TCGA-BJ-A0ZE,Thyroid Carcinoma,Thyroid,Thyroid,True
+1074,TCGA-YU-A90Q,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+1075,TCGA-64-5815,Lung Adenocarcinoma,Lung,Lung,True
+1076,TCGA-43-8116,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+1077,TCGA-B0-5399,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1078,TCGA-HS-A5N8,Sarcoma,Stomach,Stomach,True
+1079,TCGA-CV-7254,Head and Neck Squamous Cell Carcinoma,Head and Neck,Esophagus,False
+1080,TCGA-LN-A49N,Esophageal Carcinoma,Esophagus,Esophagus,True
+1081,TCGA-95-A4VK,Lung Adenocarcinoma,Lung,Lung,True
+1082,TCGA-3L-AA1B,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1083,TCGA-5M-AATA,,Colorectal,Colorectal,True
+1084,TCGA-BH-A42T,Breast Invasive Carcinoma,Breast,Breast,True
+1085,TCGA-BH-A0WA,Breast Invasive Carcinoma,Breast,Breast,True
+1086,TCGA-DK-AA6S,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1087,TCGA-AG-A036,Rectum Adenocarcinoma,Soft Tissue,Adrenal Gland,False
+1088,TCGA-AC-A5EH,Breast Invasive Carcinoma,Breast,Breast,True
+1089,TCGA-28-5215,Glioblastoma Multiforme,Brain,Brain,True
+1090,TCGA-62-A46S,Lung Adenocarcinoma,Lung,Lung,True
+1091,TCGA-BF-A5EQ,Skin Cutaneous Melanoma,Stomach,Stomach,True
+1092,TCGA-DD-AAVS,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1093,TCGA-73-7498,Lung Adenocarcinoma,Lung,Lung,True
+1094,TCGA-G9-6371,Prostate Adenocarcinoma,Prostate,Prostate,True
+1095,TCGA-FY-A3R6,Thyroid Carcinoma,Thyroid,Thyroid,True
+1096,TCGA-EL-A3T3,Thyroid Carcinoma,Thyroid,Thyroid,True
+1097,TCGA-55-8087,Lung Adenocarcinoma,Lung,Lung,True
+1098,TCGA-A4-A7UZ,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+1099,TCGA-2G-AAF8,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+1100,TCGA-D8-A1JJ,Breast Invasive Carcinoma,Breast,Breast,True
+1101,TCGA-BJ-A0ZC,Thyroid Carcinoma,Thymus,Lung,False
+1102,TCGA-F7-8298,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1103,TCGA-VR-AA4G,Esophageal Carcinoma,Esophagus,Esophagus,True
+1104,TCGA-TM-A84J,Brain Lower Grade Glioma,Brain,Brain,True
+1105,TCGA-CJ-6032,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1106,TCGA-EW-A1OZ,Breast Invasive Carcinoma,Breast,Breast,True
+1107,TCGA-CG-5719,Stomach Adenocarcinoma,Stomach,Stomach,True
+1108,TCGA-NC-A5HI,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1109,TCGA-D7-6521,Stomach Adenocarcinoma,Testis,Testis,True
+1110,TCGA-BP-5200,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1111,TCGA-G8-6326,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,Esophagus,Esophagus,True
+1112,TCGA-AR-A24W,Breast Invasive Carcinoma,Breast,Breast,True
+1113,TCGA-FD-A5BU,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1114,TCGA-CV-7178,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1115,TCGA-HT-7879,Brain Lower Grade Glioma,Brain,Brain,True
+1116,TCGA-SH-A9CU,Mesothelioma,Pancreas,Pancreas,True
+1117,TCGA-B0-4847,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1118,TCGA-BT-A20V,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1119,TCGA-DD-AADP,Liver Hepatocellular Carcinoma,Lung,Lung,True
+1120,TCGA-78-7220,Lung Adenocarcinoma,Lung,Lung,True
+1121,TCGA-CV-A465,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1122,TCGA-PJ-A5Z9,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+1123,TCGA-EJ-7793,Prostate Adenocarcinoma,Prostate,Prostate,True
+1124,TCGA-A1-A0SN,Breast Invasive Carcinoma,Breast,Breast,True
+1125,TCGA-2Y-A9H9,Liver Hepatocellular Carcinoma,Lung,Lung,True
+1126,TCGA-AY-A54L,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1127,TCGA-94-8035,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1128,TCGA-DU-6408,Brain Lower Grade Glioma,Brain,Brain,True
+1129,TCGA-EJ-5532,Prostate Adenocarcinoma,Prostate,Prostate,True
+1130,TCGA-22-5491,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1131,TCGA-FA-A86F,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,Esophagus,Stomach,False
+1132,TCGA-A2-A0EP,Breast Invasive Carcinoma,Breast,Breast,True
+1133,TCGA-EU-5906,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1134,TCGA-RQ-A68N,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,Esophagus,Esophagus,True
+1135,TCGA-UZ-A9PR,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+1136,TCGA-XF-A9T6,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1137,TCGA-MP-A4SW,Lung Adenocarcinoma,Lung,Lung,True
+1138,TCGA-2J-AABT,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+1139,TCGA-G9-6494,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+1140,TCGA-R5-A805,Stomach Adenocarcinoma,Stomach,Esophagus,False
+1141,TCGA-2G-AALF,,Thyroid,Thyroid,True
+1142,TCGA-A6-5661,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1143,TCGA-ZS-A9CE,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1144,TCGA-L3-A524,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1145,TCGA-IG-A4QT,Esophageal Carcinoma,Esophagus,Esophagus,True
+1146,TCGA-BR-8289,Stomach Adenocarcinoma,Thyroid,Thyroid,True
+1147,TCGA-85-8070,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1148,TCGA-XF-AAMH,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1149,TCGA-EL-A3GY,Thyroid Carcinoma,Thyroid,Thyroid,True
+1150,TCGA-33-6738,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1151,TCGA-PK-A5HB,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+1152,TCGA-BH-A1F6,Breast Invasive Carcinoma,Breast,Breast,True
+1153,TCGA-CV-6961,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1154,TCGA-79-5596,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1155,TCGA-EL-A3GS,Thyroid Carcinoma,Thymus,Thymus,True
+1156,TCGA-W5-AA2Z,Cholangiocarcinoma,Colorectal,Colorectal,True
+1157,TCGA-IE-A6BZ,Sarcoma,Skin,Skin,True
+1158,TCGA-CN-A6V6,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1159,TCGA-KM-8442,Kidney Chromophobe,Kidney,Kidney,True
+1160,TCGA-A7-A3J0,Breast Invasive Carcinoma,Breast,Breast,True
+1161,TCGA-EM-A3AK,Thyroid Carcinoma,Thyroid,Thyroid,True
+1162,TCGA-5L-AAT1,Breast Invasive Carcinoma,Breast,Breast,True
+1163,TCGA-UF-A7JK,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+1164,TCGA-FD-A3B6,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1165,TCGA-LN-A49X,Esophageal Carcinoma,Esophagus,Esophagus,True
+1166,TCGA-D8-A1XD,Breast Invasive Carcinoma,Breast,Breast,True
+1167,TCGA-CN-5359,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1168,TCGA-3B-A9HJ,Sarcoma,Soft Tissue,Soft Tissue,True
+1169,TCGA-CF-A5UA,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1170,TCGA-DH-A7UR,Brain Lower Grade Glioma,Brain,Brain,True
+1171,TCGA-RL-AAAS,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+1172,TCGA-KK-A6E7,Prostate Adenocarcinoma,Prostate,Prostate,True
+1173,TCGA-B0-5115,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1174,TCGA-BR-8677,Stomach Adenocarcinoma,Testis,Testis,True
+1175,TCGA-77-A5FZ,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1176,TCGA-HC-7747,Prostate Adenocarcinoma,Prostate,Prostate,True
+1177,TCGA-DB-5277,Brain Lower Grade Glioma,Brain,Brain,True
+1178,TCGA-2F-A9KO,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1179,TCGA-WB-A81R,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+1180,TCGA-69-7761,Lung Adenocarcinoma,Lung,Lung,True
+1181,TCGA-L5-A88Z,Esophageal Carcinoma,Brain,Brain,True
+1182,TCGA-S9-A7J2,Brain Lower Grade Glioma,Liver,Liver,True
+1183,TCGA-44-6775,Lung Adenocarcinoma,Lung,Lung,True
+1184,TCGA-HC-8216,Prostate Adenocarcinoma,Prostate,Prostate,True
+1185,TCGA-KB-A93G,Stomach Adenocarcinoma,Stomach,Stomach,True
+1186,TCGA-F2-A44H,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+1187,TCGA-2H-A9GQ,Esophageal Carcinoma,Brain,Brain,True
+1188,TCGA-2G-AAFZ,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+1189,TCGA-99-AA5R,Lung Adenocarcinoma,Lung,Lung,True
+1190,TCGA-E1-A7YH,Brain Lower Grade Glioma,Brain,Brain,True
+1191,TCGA-EJ-7331,Prostate Adenocarcinoma,Prostate,Prostate,True
+1192,TCGA-55-6972,Lung Adenocarcinoma,Lung,Lung,True
+1193,TCGA-HC-A8CY,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+1194,TCGA-E1-A7YI,Brain Lower Grade Glioma,Liver,Liver,True
+1195,TCGA-ZH-A8Y1,Cholangiocarcinoma,Colorectal,Colorectal,True
+1196,TCGA-HI-7168,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+1197,TCGA-E7-A678,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1198,TCGA-BH-A202,Breast Invasive Carcinoma,Breast,Breast,True
+1199,TCGA-FG-8191,Brain Lower Grade Glioma,Brain,Brain,True
+1200,TCGA-DK-A3IK,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1201,TCGA-VR-A8Q7,Esophageal Carcinoma,Brain,Brain,True
+1202,TCGA-GU-AATQ,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1203,TCGA-VQ-A8PC,Stomach Adenocarcinoma,Testis,Testis,True
+1204,TCGA-HT-8564,Brain Lower Grade Glioma,Brain,Brain,True
+1205,TCGA-TS-A7OZ,Mesothelioma,Pancreas,Pancreas,True
+1206,TCGA-LN-A9FP,Esophageal Carcinoma,Esophagus,Esophagus,True
+1207,TCGA-44-7670,Lung Adenocarcinoma,Lung,Lung,True
+1208,TCGA-F5-6464,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+1209,TCGA-P3-A5Q5,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1210,TCGA-BH-A0BM,Breast Invasive Carcinoma,Breast,Breast,True
+1211,TCGA-CR-7372,Head and Neck Squamous Cell Carcinoma,Head and Neck,Lung,False
+1212,TCGA-DM-A1HB,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1213,TCGA-BR-8690,Stomach Adenocarcinoma,Stomach,Stomach,True
+1214,TCGA-VM-A8C8,Brain Lower Grade Glioma,Brain,Brain,True
+1215,TCGA-MM-A564,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1216,TCGA-2Z-A9JI,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+1217,TCGA-KL-8325,Kidney Chromophobe,Kidney,Kidney,True
+1218,TCGA-UY-A8OB,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1219,TCGA-GM-A2DH,Breast Invasive Carcinoma,Breast,Breast,True
+1220,TCGA-DD-A73B,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1221,TCGA-RC-A7S9,Liver Hepatocellular Carcinoma,Lung,Lung,True
+1222,TCGA-AK-3453,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1223,TCGA-HC-7740,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+1224,TCGA-HP-A5MZ,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1225,TCGA-KU-A6H8,Head and Neck Squamous Cell Carcinoma,Head and Neck,Kidney,False
+1226,TCGA-J9-A8CM,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+1227,TCGA-RM-A68W,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+1228,TCGA-WA-A7GZ,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1229,TCGA-WB-A81P,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+1230,TCGA-G4-6626,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1231,TCGA-50-5044,Lung Adenocarcinoma,Lung,Lung,True
+1232,TCGA-CV-5978,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1233,TCGA-3X-AAVE,Cholangiocarcinoma,Colorectal,Colorectal,True
+1234,TCGA-CK-6748,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1235,TCGA-AC-A2FM,Breast Invasive Carcinoma,Breast,Breast,True
+1236,TCGA-T2-A6X0,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1237,TCGA-B0-4718,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1238,TCGA-A6-4107,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1239,TCGA-IB-7647,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+1240,TCGA-VQ-A8E7,Stomach Adenocarcinoma,Stomach,Stomach,True
+1241,TCGA-A2-A0CO,Breast Invasive Carcinoma,Breast,Breast,True
+1242,TCGA-IQ-A61K,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1243,TCGA-HD-8634,Head and Neck Squamous Cell Carcinoma,Head and Neck,Esophagus,False
+1244,TCGA-CV-7435,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1245,TCGA-3B-A9HQ,Sarcoma,Stomach,Stomach,True
+1246,TCGA-RN-A68Q,Sarcoma,Skin,Skin,True
+1247,TCGA-XF-A9SY,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1248,TCGA-DH-A7UT,Brain Lower Grade Glioma,Liver,Liver,True
+1249,TCGA-XF-A9SK,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1250,TCGA-DO-A1K0,Thyroid Carcinoma,Thyroid,Thyroid,True
+1251,TCGA-EW-A1P0,Breast Invasive Carcinoma,Breast,Breast,True
+1252,TCGA-B6-A409,Breast Invasive Carcinoma,Breast,Breast,True
+1253,TCGA-CH-5789,Prostate Adenocarcinoma,Prostate,Prostate,True
+1254,TCGA-2G-AAM3,,Thyroid,Thyroid,True
+1255,TCGA-GC-A3RB,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1256,TCGA-BA-5153,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1257,TCGA-D7-8573,Stomach Adenocarcinoma,Testis,Testis,True
+1258,TCGA-EL-A3GQ,Thyroid Carcinoma,Thyroid,Thyroid,True
+1259,TCGA-FP-7735,Stomach Adenocarcinoma,Stomach,Stomach,True
+1260,TCGA-55-8092,Lung Adenocarcinoma,Lung,Lung,True
+1261,TCGA-D7-A6EZ,Stomach Adenocarcinoma,Stomach,Stomach,True
+1262,TCGA-OL-A5RX,Breast Invasive Carcinoma,Breast,Breast,True
+1263,TCGA-EM-A2CS,Thyroid Carcinoma,Thyroid,Thyroid,True
+1264,TCGA-CM-6675,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1265,TCGA-85-8071,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1266,TCGA-97-A4M3,Lung Adenocarcinoma,Lung,Lung,True
+1267,TCGA-A6-5656,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1268,TCGA-HZ-8003,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+1269,TCGA-06-A7TK,Glioblastoma Multiforme,Brain,Brain,True
+1270,TCGA-HU-A4G8,Stomach Adenocarcinoma,Testis,Testis,True
+1271,TCGA-XF-AAMJ,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1272,TCGA-33-A4WN,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+1273,TCGA-YA-A8S7,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1274,TCGA-A3-3385,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1275,TCGA-SC-A6LN,Mesothelioma,Pancreas,Pancreas,True
+1276,TCGA-CG-5727,Stomach Adenocarcinoma,Stomach,Stomach,True
+1277,TCGA-3A-A9IX,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+1278,TCGA-38-4632,Lung Adenocarcinoma,Lung,Lung,True
+1279,TCGA-44-5644,Lung Adenocarcinoma,Lung,Lung,True
+1280,TCGA-OR-A5L3,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+1281,TCGA-B4-5832,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1282,TCGA-DE-A3KN,Thyroid Carcinoma,Thymus,Thymus,True
+1283,TCGA-A3-A8OV,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1284,TCGA-BR-A4J5,Stomach Adenocarcinoma,Testis,Testis,True
+1285,TCGA-G3-A25S,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1286,TCGA-S9-A7R4,Brain Lower Grade Glioma,Brain,Brain,True
+1287,TCGA-95-8039,Lung Adenocarcinoma,Lung,Lung,True
+1288,TCGA-CK-4952,Colon Adenocarcinoma,Esophagus,Stomach,False
+1289,TCGA-91-6848,Lung Adenocarcinoma,Lung,Lung,True
+1290,TCGA-O2-A52V,Lung Squamous Cell Carcinoma,Lung,Head and Neck,False
+1291,TCGA-SX-A7SL,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+1292,TCGA-EM-A2CP,Thyroid Carcinoma,Thyroid,Thyroid,True
+1293,TCGA-ZP-A9D4,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1294,TCGA-2F-A9KR,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1295,TCGA-TM-A84C,Brain Lower Grade Glioma,Brain,Brain,True
+1296,TCGA-FA-8693,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,Esophagus,Esophagus,True
+1297,TCGA-L3-A4E7,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1298,TCGA-BR-7959,Stomach Adenocarcinoma,Stomach,Stomach,True
+1299,TCGA-78-7633,Lung Adenocarcinoma,Lung,Lung,True
+1300,TCGA-A2-A04R,Breast Invasive Carcinoma,Breast,Breast,True
+1301,TCGA-R5-A804,Stomach Adenocarcinoma,Testis,Testis,True
+1302,TCGA-64-5775,Lung Adenocarcinoma,Lung,Lung,True
+1303,TCGA-DX-A7EO,Sarcoma,Soft Tissue,Soft Tissue,True
+1304,TCGA-HU-8244,Stomach Adenocarcinoma,Thyroid,Thyroid,True
+1305,TCGA-DJ-A2Q9,Thyroid Carcinoma,Thyroid,Thyroid,True
+1306,TCGA-VQ-AA64,Stomach Adenocarcinoma,Stomach,Stomach,True
+1307,TCGA-G7-7502,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+1308,TCGA-OR-A5JP,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+1309,TCGA-CI-6620,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+1310,TCGA-MQ-A4LM,Mesothelioma,Pancreas,Pancreas,True
+1311,TCGA-78-7152,Lung Adenocarcinoma,Lung,Breast,False
+1312,TCGA-WB-A81A,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+1313,TCGA-CR-7370,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1314,TCGA-CC-A7IH,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1315,TCGA-CJ-5678,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1316,TCGA-22-4613,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1317,TCGA-ET-A2N1,Thyroid Carcinoma,Thymus,Thymus,True
+1318,TCGA-B0-5698,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1319,TCGA-91-A4BD,Lung Adenocarcinoma,Lung,Lung,True
+1320,TCGA-HT-7602,Brain Lower Grade Glioma,Brain,Brain,True
+1321,TCGA-19-0957,Glioblastoma Multiforme,Brain,Brain,True
+1322,TCGA-44-8117,Lung Adenocarcinoma,Lung,Lung,True
+1323,TCGA-EM-A2OV,Thyroid Carcinoma,Thyroid,Thyroid,True
+1324,TCGA-44-A47B,Lung Adenocarcinoma,Lung,Lung,True
+1325,TCGA-CM-5348,Colon Adenocarcinoma,Esophagus,Head and Neck,False
+1326,TCGA-EB-A1NK,Skin Cutaneous Melanoma,Stomach,Stomach,True
+1327,TCGA-FT-A61P,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1328,TCGA-LN-A7HZ,Esophageal Carcinoma,Brain,Brain,True
+1329,TCGA-50-5936,Lung Adenocarcinoma,Lung,Lung,True
+1330,TCGA-AZ-6605,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1331,TCGA-DM-A1DB,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1332,TCGA-S7-A7WX,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+1333,TCGA-S9-A6TX,Brain Lower Grade Glioma,Brain,Brain,True
+1334,TCGA-94-7557,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1335,TCGA-O2-A5IB,Lung Squamous Cell Carcinoma,Pancreas,Pancreas,True
+1336,TCGA-29-A5NZ,Ovarian Serous Cystadenocarcinoma,Adrenal Gland,Adrenal Gland,True
+1337,TCGA-EL-A3H8,Thyroid Carcinoma,Thyroid,Thyroid,True
+1338,TCGA-HC-7210,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+1339,TCGA-CV-7099,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+1340,TCGA-FD-A6TB,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1341,TCGA-EP-A2KC,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1342,TCGA-DK-AA77,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1343,TCGA-WK-A8XS,Sarcoma,Soft Tissue,Soft Tissue,True
+1344,TCGA-DD-A3A3,Liver Hepatocellular Carcinoma,Lung,Lung,True
+1345,TCGA-MH-A857,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+1346,TCGA-P5-A77X,Brain Lower Grade Glioma,Brain,Brain,True
+1347,TCGA-2G-AAH8,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+1348,TCGA-NJ-A55A,Lung Adenocarcinoma,Lung,Lung,True
+1349,TCGA-AM-5821,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1350,TCGA-RD-A7BW,Stomach Adenocarcinoma,Stomach,Stomach,True
+1351,TCGA-BH-A0DD,Breast Invasive Carcinoma,Breast,Breast,True
+1352,TCGA-38-A44F,Lung Adenocarcinoma,Lung,Lung,True
+1353,TCGA-CH-5766,Prostate Adenocarcinoma,Prostate,Prostate,True
+1354,TCGA-S9-A7R7,Brain Lower Grade Glioma,Brain,Brain,True
+1355,TCGA-C8-A26W,Breast Invasive Carcinoma,Breast,Breast,True
+1356,TCGA-DZ-6132,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+1357,TCGA-DX-A3LT,Sarcoma,Soft Tissue,Soft Tissue,True
+1358,TCGA-EJ-5505,Prostate Adenocarcinoma,Prostate,Prostate,True
+1359,TCGA-XV-A9VZ,Skin Cutaneous Melanoma,Stomach,Stomach,True
+1360,TCGA-EJ-7321,Prostate Adenocarcinoma,Colorectal,Colorectal,True
+1361,TCGA-BJ-A291,Thyroid Carcinoma,Thymus,Thymus,True
+1362,TCGA-05-5429,Lung Adenocarcinoma,Lung,Lung,True
+1363,TCGA-A4-A772,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+1364,TCGA-AA-3502,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1365,TCGA-ZG-A9LM,Prostate Adenocarcinoma,Prostate,Prostate,True
+1366,TCGA-RY-A83Y,Brain Lower Grade Glioma,Brain,Brain,True
+1367,TCGA-HT-7467,Brain Lower Grade Glioma,Brain,Brain,True
+1368,TCGA-CD-A4MG,Stomach Adenocarcinoma,Stomach,Stomach,True
+1369,TCGA-IW-A3M6,Sarcoma,Skin,Skin,True
+1370,TCGA-14-1043,Glioblastoma Multiforme,Head and Neck,Esophagus,False
+1371,TCGA-2Y-A9GS,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1372,TCGA-ZF-AA5H,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1373,TCGA-EL-A3ZR,Thyroid Carcinoma,Thyroid,Thyroid,True
+1374,TCGA-43-A56V,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1375,TCGA-DU-6394,Brain Lower Grade Glioma,Brain,Brain,True
+1376,TCGA-55-7574,Lung Adenocarcinoma,Lung,Lung,True
+1377,TCGA-ET-A3DS,Thyroid Carcinoma,Thyroid,Thyroid,True
+1378,TCGA-BC-A10W,Liver Hepatocellular Carcinoma,Lung,Lung,True
+1379,TCGA-BJ-A190,Thyroid Carcinoma,Thymus,Thymus,True
+1380,TCGA-85-6798,Lung Squamous Cell Carcinoma,Lung,Esophagus,False
+1381,TCGA-T3-A92M,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1382,TCGA-CN-4735,Head and Neck Squamous Cell Carcinoma,Kidney,Kidney,True
+1383,TCGA-AD-6963,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1384,TCGA-EJ-8472,Prostate Adenocarcinoma,Prostate,Prostate,True
+1385,TCGA-ZM-AA0H,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+1386,TCGA-55-7726,Lung Adenocarcinoma,Lung,Lung,True
+1387,TCGA-E8-A414,Thyroid Carcinoma,Thymus,Breast,False
+1388,TCGA-44-A4SU,Lung Adenocarcinoma,Lung,Lung,True
+1389,TCGA-G9-6378,Prostate Adenocarcinoma,Soft Tissue,Soft Tissue,True
+1390,TCGA-EM-A2CM,Thyroid Carcinoma,Thymus,Thymus,True
+1391,TCGA-BP-5202,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1392,TCGA-DX-A8BT,Sarcoma,Skin,Skin,True
+1393,TCGA-E9-A6HE,Breast Invasive Carcinoma,Breast,Breast,True
+1394,TCGA-HD-8314,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1395,TCGA-DE-A4MB,Thyroid Carcinoma,Thyroid,Thyroid,True
+1396,TCGA-CI-6623,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+1397,TCGA-Z5-AAPL,Pancreatic Adenocarcinoma,Adrenal Gland,Adrenal Gland,True
+1398,TCGA-G4-6322,Colon Adenocarcinoma,Colorectal,Colorectal,True
+1399,TCGA-A7-A3RF,Breast Invasive Carcinoma,Breast,Breast,True
+1400,TCGA-S7-A7WQ,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+1401,TCGA-55-8513,Lung Adenocarcinoma,Lung,Lung,True
+1402,TCGA-SN-A84Y,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+1403,TCGA-HW-7489,Brain Lower Grade Glioma,Brain,Brain,True
+1404,TCGA-FD-A6TA,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1405,TCGA-CN-6018,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1406,TCGA-BW-A5NP,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1407,TCGA-DJ-A2Q2,Thyroid Carcinoma,Thymus,Thymus,True
+1408,TCGA-JY-A938,Esophageal Carcinoma,Brain,Brain,True
+1409,TCGA-VN-A88K,Prostate Adenocarcinoma,Prostate,Prostate,True
+1410,TCGA-76-6663,Glioblastoma Multiforme,Brain,Brain,True
+1411,TCGA-DV-5575,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,True
+1412,TCGA-06-A5U0,Glioblastoma Multiforme,Brain,Brain,True
+1413,TCGA-05-4405,Lung Adenocarcinoma,Lung,Lung,True
+1414,TCGA-MI-A75E,Liver Hepatocellular Carcinoma,Lung,Lung,True
+1415,TCGA-DU-5870,Brain Lower Grade Glioma,Brain,Brain,True
+1416,TCGA-EL-A3CP,Thyroid Carcinoma,Thymus,Thymus,True
+1417,TCGA-L5-A4ON,Esophageal Carcinoma,Brain,Brain,True
+1418,TCGA-80-5607,Lung Adenocarcinoma,Lung,Lung,True
+1419,TCGA-UY-A78O,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1420,TCGA-DC-6160,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+1421,TCGA-HT-7482,Brain Lower Grade Glioma,Brain,Brain,True
+1422,TCGA-2H-A9GR,Esophageal Carcinoma,Esophagus,Esophagus,True
+1423,TCGA-VN-A88N,Prostate Adenocarcinoma,Prostate,Prostate,True
+1424,TCGA-EV-5902,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+1425,TCGA-EL-A3ZL,Thyroid Carcinoma,Thymus,Thymus,True
+1426,TCGA-OR-A5J2,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+1427,TCGA-50-8460,Lung Adenocarcinoma,Lung,Lung,True
+1428,TCGA-QR-A70N,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+1429,TCGA-CF-A3MG,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1430,TCGA-DK-AA76,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1431,TCGA-DK-A1A6,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1432,TCGA-KN-8423,Kidney Chromophobe,Kidney,Kidney,True
+1433,TCGA-AN-A0XR,Breast Invasive Carcinoma,Breast,Breast,True
+1434,TCGA-O2-A52W,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1435,TCGA-19-5955,Glioblastoma Multiforme,Brain,Brain,True
+1436,TCGA-IN-A7NU,Stomach Adenocarcinoma,Stomach,Stomach,True
+1437,TCGA-EI-7004,Rectum Adenocarcinoma,Soft Tissue,Soft Tissue,True
+1438,TCGA-T2-A6WX,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1439,TCGA-FG-8188,Brain Lower Grade Glioma,Liver,Liver,True
+1440,TCGA-G9-6336,Prostate Adenocarcinoma,Prostate,Prostate,True
+1441,TCGA-OR-A5KY,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,True
+1442,TCGA-BF-A1PU,Skin Cutaneous Melanoma,Stomach,Stomach,True
+1443,TCGA-DX-A7ER,Sarcoma,Stomach,Stomach,True
+1444,TCGA-TS-A7P6,Mesothelioma,Pancreas,Pancreas,True
+1445,TCGA-DU-6403,Brain Lower Grade Glioma,Brain,Brain,True
+1446,TCGA-4A-A93W,Kidney Renal Papillary Cell Carcinoma,Brain,Brain,True
+1447,TCGA-XY-A89B,Testicular Germ Cell Tumors,Thyroid,Thyroid,True
+1448,TCGA-EL-A4KH,Thyroid Carcinoma,Thymus,Thymus,True
+1449,TCGA-BT-A20N,Bladder Urothelial Carcinoma,Bladder,Bladder,True
+1450,TCGA-DD-AAE3,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1451,TCGA-A1-A0SG,Breast Invasive Carcinoma,Breast,Breast,True
+1452,TCGA-2H-A9GF,Esophageal Carcinoma,Esophagus,Esophagus,True
+1453,TCGA-B7-A5TJ,Stomach Adenocarcinoma,Stomach,Stomach,True
+1454,TCGA-BQ-7050,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,True
+1455,TCGA-RW-A68B,Pheochromocytoma and Paraganglioma,Prostate,Prostate,True
+1456,TCGA-2Y-A9GV,Liver Hepatocellular Carcinoma,Liver,Liver,True
+1457,TCGA-P5-A77W,Brain Lower Grade Glioma,Liver,Liver,True
+1458,TCGA-DX-A3UF,Sarcoma,Stomach,Stomach,True
+1459,TCGA-DD-A73C,Liver Hepatocellular Carcinoma,Lung,Lung,True
+1460,TCGA-LL-A7SZ,Breast Invasive Carcinoma,Breast,Breast,True
+1461,TCGA-CN-4723,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,True
+1462,TCGA-AC-A2QH,Breast Invasive Carcinoma,Breast,Breast,True
+1463,TCGA-DX-AB30,Sarcoma,Stomach,Stomach,True
+1464,TCGA-BR-6710,Stomach Adenocarcinoma,Stomach,Stomach,True
+1465,TCGA-E8-A2EA,Thyroid Carcinoma,Thyroid,Thyroid,True
+1466,TCGA-33-4582,Lung Squamous Cell Carcinoma,Lung,Lung,True
+1467,TCGA-BH-A42V,Breast Invasive Carcinoma,Breast,Breast,True

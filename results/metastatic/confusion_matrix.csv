@@ -1,0 +1,13 @@
+,Adrenal Gland,Bladder,Breast,Colorectal,Esophagus,Head and Neck,Kidney,Liver,Lung,Pancreas,Stomach,Thyroid
+Adrenal Gland,4,0,0,0,0,0,0,0,0,0,0,0
+Bladder,0,27,0,0,1,0,0,0,0,0,0,0
+Breast,0,0,3,0,0,0,0,0,0,0,0,0
+Colorectal,0,0,0,8,0,0,0,0,0,0,0,0
+Esophagus,0,0,0,0,2,0,0,0,0,0,0,0
+Head and Neck,0,0,1,0,6,53,0,0,0,0,0,0
+Kidney,0,0,0,0,0,0,16,0,0,0,0,0
+Liver,0,0,0,0,0,0,0,2,0,0,0,0
+Lung,0,0,0,0,0,0,0,1,2,0,0,0
+Pancreas,0,0,0,0,0,0,0,0,0,1,0,0
+Stomach,0,0,0,0,0,0,0,0,0,0,7,0
+Thyroid,0,0,0,0,0,0,0,0,0,0,0,9

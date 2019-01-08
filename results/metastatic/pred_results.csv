@@ -1,0 +1,144 @@
+Patient,Diagnosis,Primary_site,Prediction,Correct
+TCGA-OR-A5J4,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,Yes
+TCGA-OR-A5KO,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,Yes
+TCGA-OR-A5J2,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,Yes
+TCGA-OR-A5KY,Adrenocortical Carcinoma,Adrenal Gland,Adrenal Gland,Yes
+TCGA-CU-A72E,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-BT-A20T,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-ZF-AA5P,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-CU-A0YR,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-ZF-AA4T,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-ZF-AA58,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-XF-A9T5,Bladder Urothelial Carcinoma,Bladder,Esophagus,No
+TCGA-XF-A9SJ,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-XF-AAN7,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-DK-A3IL,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-FD-A3SM,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-UY-A78M,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-FD-A3SQ,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-BL-A13J,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-FD-A3SJ,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-GD-A3OP,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-S5-A6DX,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-BT-A20V,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-XF-AAMH,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-2F-A9KO,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-DK-A3IK,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-UY-A8OB,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-XF-A9SY,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-XF-A9SK,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-FT-A61P,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-ZF-AA5H,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-FD-A6TA,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-DK-A1A6,Bladder Urothelial Carcinoma,Bladder,Bladder,Yes
+TCGA-A2-A0SV,Breast Invasive Carcinoma,Breast,Breast,Yes
+TCGA-5L-AAT1,Breast Invasive Carcinoma,Breast,Breast,Yes
+TCGA-BH-A1FH,Breast Invasive Carcinoma,Breast,Breast,Yes
+TCGA-G4-6315,Colon Adenocarcinoma,Colorectal,Colorectal,Yes
+TCGA-AA-3662,Colon Adenocarcinoma,Colorectal,Colorectal,Yes
+TCGA-DC-6154,Rectum Adenocarcinoma,Colorectal,Colorectal,Yes
+TCGA-DM-A285,Colon Adenocarcinoma,Colorectal,Colorectal,Yes
+TCGA-5M-AAT6,Colon Adenocarcinoma,Colorectal,Colorectal,Yes
+TCGA-A6-6142,Colon Adenocarcinoma,Colorectal,Colorectal,Yes
+TCGA-AZ-4614,Colon Adenocarcinoma,Colorectal,Colorectal,Yes
+TCGA-A6-2671,Colon Adenocarcinoma,Colorectal,Colorectal,Yes
+TCGA-LN-A5U5,Esophageal Carcinoma,Esophagus,Esophagus,Yes
+TCGA-VR-AA7B,Esophageal Carcinoma,Esophagus,Esophagus,Yes
+TCGA-CV-7252,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-HD-A634,Head and Neck Squamous Cell Carcinoma,Head and Neck,Esophagus,No
+TCGA-CN-5366,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-HD-7754,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-HD-7831,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CR-7386,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CN-4739,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CV-7236,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-H7-A6C4,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CN-4726,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CQ-5334,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CN-6992,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-D6-A6EQ,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CN-5367,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CV-7103,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-KU-A6H8,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CV-5431,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-BA-5555,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CN-4723,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CQ-6228,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CN-5361,Head and Neck Squamous Cell Carcinoma,Head and Neck,Esophagus,No
+TCGA-UF-A71D,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-H7-8502,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CR-7397,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-UF-A7JA,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CV-5441,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CR-7382,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-T3-A92M,Head and Neck Squamous Cell Carcinoma,Head and Neck,Esophagus,No
+TCGA-CV-6962,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CN-6016,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CN-6010,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CV-7089,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-UF-A7JK,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CQ-5326,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-UF-A7JT,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CN-4728,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CN-5365,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-P3-A6T0,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CV-7104,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CR-6471,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CV-7409,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CN-A640,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CV-6954,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-MT-A7BN,Head and Neck Squamous Cell Carcinoma,Head and Neck,Breast,No
+TCGA-CV-6939,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CV-A45V,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-IQ-A61G,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-HD-7229,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-HD-8224,Head and Neck Squamous Cell Carcinoma,Head and Neck,Esophagus,No
+TCGA-CN-A6UY,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CN-A641,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CV-A45Y,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-UF-A7JD,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CV-6948,Head and Neck Squamous Cell Carcinoma,Head and Neck,Esophagus,No
+TCGA-BB-7864,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-P3-A6T8,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-UF-A71A,Head and Neck Squamous Cell Carcinoma,Head and Neck,Esophagus,No
+TCGA-QK-A8Z9,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-CN-5369,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-MT-A67G,Head and Neck Squamous Cell Carcinoma,Head and Neck,Head and Neck,Yes
+TCGA-BP-5178,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-B0-5712,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-B0-5080,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-A4-A57E,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-CJ-5678,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-B0-4844,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-SX-A7SM,Kidney Renal Papillary Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-KL-8339,Kidney Chromophobe,Kidney,Kidney,Yes
+TCGA-B0-4845,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-B0-4847,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-B0-5092,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-B0-4846,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-B0-5115,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-CW-5591,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-CZ-5461,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-CW-5585,Kidney Renal Clear Cell Carcinoma,Kidney,Kidney,Yes
+TCGA-BW-A5NP,Liver Hepatocellular Carcinoma,Liver,Liver,Yes
+TCGA-RC-A6M5,Liver Hepatocellular Carcinoma,Liver,Liver,Yes
+TCGA-55-8620,Lung Adenocarcinoma,Lung,Liver,No
+TCGA-78-7145,Lung Adenocarcinoma,Lung,Lung,Yes
+TCGA-55-6968,Lung Adenocarcinoma,Lung,Lung,Yes
+TCGA-IB-7644,Pancreatic Adenocarcinoma,Pancreas,Pancreas,Yes
+TCGA-R5-A7O7,Stomach Adenocarcinoma,Stomach,Stomach,Yes
+TCGA-BR-7957,Stomach Adenocarcinoma,Stomach,Stomach,Yes
+TCGA-VQ-A8PP,Stomach Adenocarcinoma,Stomach,Stomach,Yes
+TCGA-BR-7196,Stomach Adenocarcinoma,Stomach,Stomach,Yes
+TCGA-VQ-A91Q,Stomach Adenocarcinoma,Stomach,Stomach,Yes
+TCGA-R5-A7ZI,Stomach Adenocarcinoma,Stomach,Stomach,Yes
+TCGA-CG-5716,Stomach Adenocarcinoma,Stomach,Stomach,Yes
+TCGA-BJ-A3EZ,Thyroid Carcinoma,Thyroid,Thyroid,Yes
+TCGA-FE-A231,Thyroid Carcinoma,Thyroid,Thyroid,Yes
+TCGA-BJ-A0ZH,Thyroid Carcinoma,Thyroid,Thyroid,Yes
+TCGA-EM-A2OX,Thyroid Carcinoma,Thyroid,Thyroid,Yes
+TCGA-EL-A3H5,Thyroid Carcinoma,Thyroid,Thyroid,Yes
+TCGA-EL-A3D4,Thyroid Carcinoma,Thyroid,Thyroid,Yes
+TCGA-E8-A436,Thyroid Carcinoma,Thyroid,Thyroid,Yes
+TCGA-E3-A3E5,Thyroid Carcinoma,Thyroid,Thyroid,Yes
+TCGA-E8-A3X7,Thyroid Carcinoma,Thyroid,Thyroid,Yes

@@ -1,0 +1,6 @@
+,Mean,Std,CI_low,CI_up
+Specificity,0.9972,0.0001,0.9969,0.9975
+Sensitivity,0.9259,0.0032,0.9187,0.933
+Postive_predictive_value,0.9503,0.0057,0.9373,0.9633
+Negative_predictive_value,0.9973,0.0001,0.997,0.9976
+Accuracy,0.9536,0.0022,0.9485,0.9587

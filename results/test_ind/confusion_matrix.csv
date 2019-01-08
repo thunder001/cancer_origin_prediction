@@ -1,0 +1,14 @@
+,Adrenal Gland,Bladder,Breast,Colorectal,Head and Neck,Kidney,Liver,Lung,Pancreas,Prostate,Soft Tissue,Stomach,Thyroid
+Adrenal Gland,14,0,0,0,0,0,0,2,0,0,2,0,0
+Bladder,0,25,0,0,0,0,0,0,0,0,0,0,0
+Breast,0,0,34,0,0,0,0,1,0,0,0,0,0
+Colorectal,0,0,1,108,0,0,0,1,0,0,0,2,0
+Head and Neck,0,0,0,0,5,0,0,1,0,0,0,0,0
+Kidney,0,0,0,0,0,17,0,0,0,0,0,0,0
+Liver,0,0,0,0,0,0,37,0,0,0,0,0,0
+Lung,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pancreas,0,0,0,0,0,0,3,6,135,0,0,23,0
+Prostate,0,0,0,0,0,0,0,0,0,82,0,0,0
+Soft Tissue,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stomach,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thyroid,0,0,1,0,0,0,0,0,0,0,0,0,81
