@@ -75,8 +75,8 @@ This folder contains data, results and codes for DNN-based cancer origin predict
                                             --testfile ./data/GEO/combined_final.tfrecords \
                                             --testmetafile ./data/GEO/combined_final_meta.csv \
                                             --units 64  \
-                                            --modelfile ./DNN_model/DNN_model_100_dev_15_20/best_model/model_0.ckpt \
-                                            --codesfile ./data/train_dev_test_15_20/code.csv \
+                                            --modelfile ./DNN_model/best_model/model_0.ckpt \
+                                            --codesfile ./DNN_model/code.csv \
                                             --sample_size 581 \
                                             --results_dir ./results/test_ind/
   ```
