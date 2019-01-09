@@ -13,24 +13,34 @@ This folder contains data, results and codes for DNN-based cancer origin predict
   Due to large data, only data from GEO are available here for testing our model, which contains data from 581 patients across 10 cancer origins.
 
 * results
+   
    This fold contains model performance in different data and predicted cancer origins using DNN-based cancer origin prediction model.
    1. CV
+   
    SSPN_stat.csv: An overall model performance using 10 fold cross-validation of training data, including specificity, sensitivity, positive predictive value and negative predictive value.
    2. dev
+   
    Model performance using development data, including accuracy, average precision, confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value as well as predictive results.
    3. test
+   
    Model performance using test data, including accuracy, average precision, confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value as well as predictive results.
    4. metastatic
+   
    Model performance using data from metastatic patients, including accuracy, average precision, confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value as well as predictive results.
    5. test_ind
+   
    Model performance using independent data from GEO, including accuracy, average precision, confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value as well as predictive results.
 
 * DNN_model
+   
    best_model folder contains the best model obtained from optimization of hyper parameters.
+   
    cv_model folder contains the models from 10 fold cross-validation.
 
 * codes
+
 data_prep.py: Python codes including pipeline from raw data to tfrecords formatted data. Please don't run since raw data is big and not included in Data folder
+
 cancer_orgin_DNN.py:  Python codes including functions for DNN model training and evaluation.
 
 Note: Python code dependency: python 3.6.3, pandas 0.21.0, numpy 1.13.3, tensorflow 1.4.0, sklearn 0.19.1
