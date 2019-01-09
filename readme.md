@@ -33,27 +33,29 @@ This folder contains data, results and codes for DNN-based cancer origin predict
 
 
    **usage:**
-   cancer_origin_DNN.py [-h]  [--trainfile [TRAINFILE]
-                              [--testfile [TESTFILE]]
-                              [--testmetafile [TESTMETAFILE]]
-										[--modelfile [MODELFILE]]
-										[--codesfile [CODESFILE]]
-                               [--CVData_dir [CVDATA_DIR]]
-                               [--model_dir [MODEL_DIR]]
-                               [--units [UNITS [UNITS ...]]]
-                               [--best_model_dir [BEST_MODEL_DIR]]
-                               [--sample_size [{1468,143,581,448,431}]]
-                               [-f FOLDS] [--results_dir [RESULTS_DIR]]
-                               {train,test,cv,model_selection}
+   cancer_origin_DNN.py [-h]  [--trainfile [TRAINFILE] \
+                              [--testfile [TESTFILE]] \
+                              [--testmetafile [TESTMETAFILE]] \
+			      [--modelfile [MODELFILE]] \
+			      [--codesfile [CODESFILE]] \
+                              [--CVData_dir [CVDATA_DIR]] \
+                              [--model_dir [MODEL_DIR]] \
+                              [--units [UNITS [UNITS ...]]] \
+                              [--best_model_dir [BEST_MODEL_DIR]] \
+                              [--sample_size [{1468,143,581,448,431}]] \
+                              [-f FOLDS] [--results_dir [RESULTS_DIR]] \
+                              {train,test,cv,model_selection}
 
    Get performance of cancer origin prediction model using test data
 
-   positional arguments:
-     {train,test,cv,model_selection}
+   *positional arguments:*
+    
+    {train,test,cv,model_selection}
                            Choose the type of program to run
 
-   optional arguments:
-     -h, --help            show this help message and exit
+   *optional arguments:*
+    
+    -h, --help            show this help message and exit
      --trainfile [TRAINFILE]
                            Methylation file as tfrecords to be used for training model
      --testfile [TESTFILE]
