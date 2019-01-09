@@ -46,43 +46,31 @@ This folder contains data, results and codes for DNN-based cancer origin predict
                               [--sample_size [{1468,143,581,448,431}]] \
                               [-f FOLDS] [--results_dir [RESULTS_DIR]] \
                               {train,test,cv,model_selection}
-
-   Get performance of cancer origin prediction model using test data
-
-   *positional arguments:*
+   
+   positional arguments:
     
     {train,test,cv,model_selection}
                            Choose the type of program to run
 
-   *optional arguments:*
+   optional arguments:
     
-    -h, --help            show this help message and exit
-     --trainfile [TRAINFILE]
-                           Methylation file as tfrecords to be used for training model
-     --testfile [TESTFILE]
-                           Methylation file to be tested as tfrecords format
-     --testmetafile [TESTMETAFILE]
-                           Meta data file to be used in testing
-     --modelfile [MODELFILE]
-                           Model file to be used in testing or to be saved in training.
-     --codesfile [CODESFILE]
-                           Map file from cancer origin name to numeric value as csv format.
-     --CVData_dir [CVDATA_DIR]
-                           Directory for storing methylation data for each fold
-     --model_dir [MODEL_DIR]
-                           Directory for storing models for each fold
-     --units [UNITS [UNITS ...]]
-                           a list of hidden units to test
-     --best_model_dir [BEST_MODEL_DIR]
-                           Directory for best model
-     --sample_size [{1468,701,581,448,431}]
-                           Test sample size
-     -f FOLDS, --folds FOLDS
-                           Number of folds to be generated
-     --results_dir [RESULTS_DIR]
-                           folder for test results
+    -h, --help            	show this help message and exit
+     --trainfile [TRAINFILE]	Methylation file as tfrecords to be used for training model
+     --testfile [TESTFILE]	Methylation file to be tested as tfrecords format
+     --testmetafile [TESTMETAFILE]	Meta data file to be used in testing
+     --modelfile [MODELFILE]	Model file to be used in testing or to be saved in training.
+     --codesfile [CODESFILE]	Map file from cancer origin name to numeric value as csv format.
+     --CVData_dir [CVDATA_DIR]	Directory for storing methylation data for each fold
+     --model_dir [MODEL_DIR]	Directory for storing models for each fold
+     --units [UNITS [UNITS ...]]	a list of hidden units to test
+     --best_model_dir [BEST_MODEL_DIR]	Directory for best model
+     --sample_size [{1468,701,581,448,431}]	Test sample size
+     -f FOLDS, --folds FOLDS	Number of folds to be generated
+     --results_dir [RESULTS_DIR]	folder for test results
 
+   ```
    **For example:**
+   ```python
    python3 ./codes/cancer_origin_DNN.py test \
                                             --testfile ./data/GEO/combined_final.tfrecords \
                                             --testmetafile ./data/GEO/combined_final_meta.csv \
