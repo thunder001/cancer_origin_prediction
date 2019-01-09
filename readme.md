@@ -9,13 +9,13 @@ This folder contains data, results and codes for DNN-based cancer origin predict
 ## Data ##
 
 <p align="center">
-  <img src="./figures/data.jpg" width="400">
+  <img src="./figures/data.jpg" width="800">
 </p>
 
 ## DNN model
 
 <p align="center">
-  <img src="./figures/model.jpg" width="400">
+  <img src="./figures/model.jpg" width="600">
 </p>
 
 ## Documentation
