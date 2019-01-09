@@ -7,6 +7,9 @@
 This folder contains data, results and codes for DNN-based cancer origin prediction. Specifically, DNA methylation data from 7,342 patients were split into train/dev/test sets according to 60/20/20.
 
 ## DNN model
+<p align="center">
+  <img src="./figures/model.jpg" width="400">
+</p>
 ## Documentation
 **1. data/GEO**
 
