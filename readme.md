@@ -8,12 +8,6 @@ This folder contains data, results and codes for DNN-based cancer origin predict
 
 ## DNN model
 
-<object data="./figures/model.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./figures/model.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./figures/model.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
 <p align="center">
   <img src="./figures/model.pdf" width="400">
 </p>
