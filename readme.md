@@ -4,7 +4,7 @@
    Around 5% of metastatic malignancies are of unknown primary origin (CUP) and 80% of CUP patients have poor prognosis. Cancer origin determination combined with site-specific treatment of CUP has shown to improve patient outcomes. However, determining tissue origin of CUP is challenging in clinical settings. Existing pathology and gene expression-based techniques are time consuming, costly and often have limited performance. We aim to develop a high performance and easily implemented model for cancer origin prediction.
    
    We developed a deep neuron network (DNN)-based tissue of origin classifier using DNA methylation data of 7,342 patients from The Cancer Genome Atlas (TCGA) that cover 18 different cancer origins. 
-This folder contains data, results and codes for DNN-based cancer origin prediction. Specifically, DNA methylation data from 7,342 patients were split into train/dev/test sets according to 60/20/20.
+
 
 ## Data ##
 
