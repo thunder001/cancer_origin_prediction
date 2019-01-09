@@ -24,64 +24,67 @@ This folder contains data, results and codes for DNN-based cancer origin predict
 
 **4. codes**
 
+   Note: Python code dependency: python 3.6.3, pandas 0.21.0, numpy 1.13.3, tensorflow 1.4.0, sklearn 0.19.1
+   
    *data_prep.py:* Python codes including pipeline from raw data to tfrecords formatted data. Please don't run since raw data is big and not included in Data folder
 
    *cancer_orgin_DNN.py:*  Python codes including functions for DNN model training and evaluation.
 
-Note: Python code dependency: python 3.6.3, pandas 0.21.0, numpy 1.13.3, tensorflow 1.4.0, sklearn 0.19.1
 
-usage: cancer_origin_DNN.py [-h] [--trainfile [TRAINFILE]]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[--testfile [TESTFILE]]
-                            [--testmetafile [TESTMETAFILE]]
-                            [--modelfile [MODELFILE]]
-                            [--codesfile [CODESFILE]]
-                            [--CVData_dir [CVDATA_DIR]]
-                            [--model_dir [MODEL_DIR]]
-                            [--units [UNITS [UNITS ...]]]
-                            [--best_model_dir [BEST_MODEL_DIR]]
-                            [--sample_size [{1468,143,581,448,431}]]
-                            [-f FOLDS] [--results_dir [RESULTS_DIR]]
-                            {train,test,cv,model_selection}
 
-Get performance of cancer origin prediction model using test data
+   **usage:**
+   cancer_origin_DNN.py [-h] [--trainfile [TRAINFILE]]
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[--testfile [TESTFILE]]
+                               [--testmetafile [TESTMETAFILE]]
+                               [--modelfile [MODELFILE]]
+                               [--codesfile [CODESFILE]]
+                               [--CVData_dir [CVDATA_DIR]]
+                               [--model_dir [MODEL_DIR]]
+                               [--units [UNITS [UNITS ...]]]
+                               [--best_model_dir [BEST_MODEL_DIR]]
+                               [--sample_size [{1468,143,581,448,431}]]
+                               [-f FOLDS] [--results_dir [RESULTS_DIR]]
+                               {train,test,cv,model_selection}
 
-positional arguments:
-  {train,test,cv,model_selection}
-                        Choose the type of program to run
+   Get performance of cancer origin prediction model using test data
 
-optional arguments:
-  -h, --help            show this help message and exit
-  --trainfile [TRAINFILE]
-                        Methylation file as tfrecords to be used for training model
-  --testfile [TESTFILE]
-                        Methylation file to be tested as tfrecords format
-  --testmetafile [TESTMETAFILE]
-                        Meta data file to be used in testing
-  --modelfile [MODELFILE]
-                        Model file to be used in testing or to be saved in training.
-  --codesfile [CODESFILE]
-                        Map file from cancer origin name to numeric value as csv format.
-  --CVData_dir [CVDATA_DIR]
-                        Directory for storing methylation data for each fold
-  --model_dir [MODEL_DIR]
-                        Directory for storing models for each fold
-  --units [UNITS [UNITS ...]]
-                        a list of hidden units to test
-  --best_model_dir [BEST_MODEL_DIR]
-                        Directory for best model
-  --sample_size [{1468,701,581,448,431}]
-                        Test sample size
-  -f FOLDS, --folds FOLDS
-                        Number of folds to be generated
-  --results_dir [RESULTS_DIR]
-                        folder for test results
+   positional arguments:
+     {train,test,cv,model_selection}
+                           Choose the type of program to run
 
-For example:
-python3 ./codes/cancer_origin_DNN.py test \
-                                         --testfile ./data/GEO/combined_final.tfrecords \
-                                         --testmetafile ./data/GEO/combined_final_meta.csv \
-                                         --units 64  \
-                                         --modelfile ./DNN_model/DNN_model_100_dev_15_20/best_model/model_0.ckpt \
-                                         --codesfile ./data/train_dev_test_15_20/code.csv \
-                                         --sample_size 581 \
-                                         --results_dir ./results/test_ind/
+   optional arguments:
+     -h, --help            show this help message and exit
+     --trainfile [TRAINFILE]
+                           Methylation file as tfrecords to be used for training model
+     --testfile [TESTFILE]
+                           Methylation file to be tested as tfrecords format
+     --testmetafile [TESTMETAFILE]
+                           Meta data file to be used in testing
+     --modelfile [MODELFILE]
+                           Model file to be used in testing or to be saved in training.
+     --codesfile [CODESFILE]
+                           Map file from cancer origin name to numeric value as csv format.
+     --CVData_dir [CVDATA_DIR]
+                           Directory for storing methylation data for each fold
+     --model_dir [MODEL_DIR]
+                           Directory for storing models for each fold
+     --units [UNITS [UNITS ...]]
+                           a list of hidden units to test
+     --best_model_dir [BEST_MODEL_DIR]
+                           Directory for best model
+     --sample_size [{1468,701,581,448,431}]
+                           Test sample size
+     -f FOLDS, --folds FOLDS
+                           Number of folds to be generated
+     --results_dir [RESULTS_DIR]
+                           folder for test results
+
+   **For example:**
+   python3 ./codes/cancer_origin_DNN.py test \
+                                            --testfile ./data/GEO/combined_final.tfrecords \
+                                            --testmetafile ./data/GEO/combined_final_meta.csv \
+                                            --units 64  \
+                                            --modelfile ./DNN_model/DNN_model_100_dev_15_20/best_model/model_0.ckpt \
+                                            --codesfile ./data/train_dev_test_15_20/code.csv \
+                                            --sample_size 581 \
+                                            --results_dir ./results/test_ind/
