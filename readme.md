@@ -15,18 +15,23 @@ This folder contains data, results and codes for DNN-based cancer origin predict
 2. results
    
    This fold contains model performance in different data and predicted cancer origins using DNN-based cancer origin prediction model.
+   
    1. CV
    
    SSPN_stat.csv: An overall model performance using 10 fold cross-validation of training data, including specificity, sensitivity, positive predictive value and negative predictive value.
+   
    2. dev
    
    Model performance using development data, including accuracy, average precision, confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value as well as predictive results.
+   
    3. test
    
    Model performance using test data, including accuracy, average precision, confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value as well as predictive results.
+   
    4. metastatic
    
    Model performance using data from metastatic patients, including accuracy, average precision, confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value as well as predictive results.
+   
    5. test_ind
    
    Model performance using independent data from GEO, including accuracy, average precision, confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value as well as predictive results.
