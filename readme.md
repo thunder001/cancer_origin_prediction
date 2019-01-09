@@ -33,6 +33,7 @@ This folder contains data, results and codes for DNN-based cancer origin predict
 
 
    **usage:**
+   ```python
    cancer_origin_DNN.py [-h]  [--trainfile [TRAINFILE] \
                               [--testfile [TESTFILE]] \
                               [--testmetafile [TESTMETAFILE]] \
@@ -90,3 +91,4 @@ This folder contains data, results and codes for DNN-based cancer origin predict
                                             --codesfile ./data/train_dev_test_15_20/code.csv \
                                             --sample_size 581 \
                                             --results_dir ./results/test_ind/
+  ```
