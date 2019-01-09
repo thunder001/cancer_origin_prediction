@@ -8,7 +8,7 @@ This folder contains data, results and codes for DNN-based cancer origin predict
 
 ## DNN model
 <p align="center">
-  <img src="./figures/model.jpg" width="400">
+  <img src="./figures/model.pdf" width="400">
 </p>
 ## Documentation
 **1. data/GEO**
