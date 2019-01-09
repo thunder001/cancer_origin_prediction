@@ -14,27 +14,7 @@ This folder contains data, results and codes for DNN-based cancer origin predict
 
 2. results
    
-   This fold contains model performance in different data and predicted cancer origins using DNN-based cancer origin prediction model.
-   
-   1. CV
-   
-   SSPN_stat.csv: An overall model performance using 10 fold cross-validation of training data, including specificity, sensitivity, positive predictive value and negative predictive value.
-   
-   2. dev
-   
-   Model performance using development data, including accuracy, average precision, confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value as well as predictive results.
-   
-   3. test
-   
-   Model performance using test data, including accuracy, average precision, confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value as well as predictive results.
-   
-   4. metastatic
-   
-   Model performance using data from metastatic patients, including accuracy, average precision, confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value as well as predictive results.
-   
-   5. test_ind
-   
-   Model performance using independent data from GEO, including accuracy, average precision, confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value as well as predictive results.
+   This fold contains model performance in different data and predicted cancer origins using DNN-based cancer origin prediction model. Performace metrics include accuracy,  confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value.
 
 3. DNN_model
    
@@ -51,7 +31,7 @@ cancer_orgin_DNN.py:  Python codes including functions for DNN model training an
 Note: Python code dependency: python 3.6.3, pandas 0.21.0, numpy 1.13.3, tensorflow 1.4.0, sklearn 0.19.1
 
 usage: cancer_origin_DNN.py [-h] [--trainfile [TRAINFILE]]
-                            [--testfile [TESTFILE]]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[--testfile [TESTFILE]]
                             [--testmetafile [TESTMETAFILE]]
                             [--modelfile [MODELFILE]]
                             [--codesfile [CODESFILE]]
