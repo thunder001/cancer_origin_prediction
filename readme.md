@@ -8,25 +8,25 @@ This folder contains data, results and codes for DNN-based cancer origin predict
 
 ## DNN model
 ## Documentation
-1. data/GEO
+**1. data/GEO**
 
   Due to large data, only data from GEO are available here for testing our model, which contains data from 581 patients across 10 cancer origins.
 
-2. results
+**2. results**
    
    This fold contains model performance in different data and predicted cancer origins using DNN-based cancer origin prediction model. Performace metrics include accuracy,  confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value.
 
-3. DNN_model
+**3. DNN_model**
    
    best_model folder contains the best model obtained from optimization of hyper parameters.
    
    cv_model folder contains the models from 10 fold cross-validation.
 
-4. codes
+**4. codes**
 
-data_prep.py: Python codes including pipeline from raw data to tfrecords formatted data. Please don't run since raw data is big and not included in Data folder
+   *data_prep.py:* Python codes including pipeline from raw data to tfrecords formatted data. Please don't run since raw data is big and not included in Data folder
 
-cancer_orgin_DNN.py:  Python codes including functions for DNN model training and evaluation.
+   *cancer_orgin_DNN.py:*  Python codes including functions for DNN model training and evaluation.
 
 Note: Python code dependency: python 3.6.3, pandas 0.21.0, numpy 1.13.3, tensorflow 1.4.0, sklearn 0.19.1
 
