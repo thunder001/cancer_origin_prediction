@@ -6,10 +6,16 @@
    We developed a deep neuron network (DNN)-based tissue of origin classifier using DNA methylation data of 7,342 patients from The Cancer Genome Atlas (TCGA) that cover 18 different cancer origins. 
 This folder contains data, results and codes for DNN-based cancer origin prediction. Specifically, DNA methylation data from 7,342 patients were split into train/dev/test sets according to 60/20/20.
 
+## Data ##
+
+<p align="center">
+  <img src="./figures/data.jpg" width="400">
+</p>
+
 ## DNN model
 
 <p align="center">
-  <img src="./figures/model.pdf" width="400">
+  <img src="./figures/model.jpg" width="400">
 </p>
 
 ## Documentation
