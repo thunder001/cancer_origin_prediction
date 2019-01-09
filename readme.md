@@ -33,9 +33,9 @@ This folder contains data, results and codes for DNN-based cancer origin predict
 
 
    **usage:**
-   cancer_origin_DNN.py [-h] [--trainfile [TRAINFILE]]
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[--testfile [TESTFILE]]
-                               [--testmetafile [TESTMETAFILE]]
+   cancer_origin_DNN.py [-h]  [--trainfile [TRAINFILE]
+                              [--testfile [TESTFILE]]
+                              [--testmetafile [TESTMETAFILE]]
                                [--modelfile [MODELFILE]]
                                [--codesfile [CODESFILE]]
                                [--CVData_dir [CVDATA_DIR]]
