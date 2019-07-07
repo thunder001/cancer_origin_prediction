@@ -6,21 +6,20 @@ from model_selection import run_model_selection
 from model_evaluation import ModelEval
 import matplotlib
 matplotlib.use("TkAgg")
-import matplotlib.pyplot as plt
 from plots import plot_pr, plot_auc
 
 
 def main():
     args, _ = parser.parse_known_args()
-    print(args)
+    # print(args)
     parafile = args.parafile
+    # print(parafile)
 
     train = ModelTraining()
     ev = ModelEval()
     paralist = pd.read_csv(parafile, sep="\t")
-    print(paralist)
+    print('\nInput parameters: {}\n'.format(paralist))
     para = dict(zip(paralist.key, paralist.value))
-    print(para)
 
     if para['runtype'] == "train":
         trainfile = para['trainfile']
@@ -66,6 +65,7 @@ def main():
         print(modelfile)
         print(type(modelfile))
         codesfile = para['codesfile']
+        figure_dir = para['figure_dir']
         results_dir = para['results_dir']
 
         accuracy, precision, recall, average_precision_ser, cm_df, SSPN_df, pred_df, fprs, tprs, aucs, tprs_overall = \
@@ -93,17 +93,18 @@ def main():
 
         # plt.show()
 
-        plot_pr(origins, precision, recall, average_precision_ser, codesfile, True)
-        plot_auc(origins, fprs, tprs, aucs, tprs_overall, codesfile, True)
-
+        pr_fname = figure_dir + 'pr_' + parafile.split('/')[-1].split('.')[0] + '.png'
+        plot_pr(origins, precision, recall, average_precision_ser, codesfile, True, pr_fname)
+        roc_fname = figure_dir + 'auc_' + parafile.split('/')[-1].split('.')[0] + '.png'
+        plot_auc(origins, fprs, tprs, aucs, tprs_overall, codesfile, True, roc_fname)
 
         # save results to files
 
-        pd.Series(accuracy, index=['accuracy']).to_csv(results_dir + "accuracy.txt", sep="\n")
-        cm_df.to_csv(results_dir + "confusion_matrix.csv")
-        SSPN_df.to_csv(results_dir + "sspn.csv")
-        average_precision_ser.to_csv(results_dir + "average_precision.csv")
-        pred_df.to_csv(results_dir + "pred_results.csv", sep=",")
+        # pd.Series(accuracy, index=['accuracy']).to_csv(results_dir + "accuracy.txt", sep="\n")
+        # cm_df.to_csv(results_dir + "confusion_matrix.csv")
+        # SSPN_df.to_csv(results_dir + "sspn.csv")
+        # average_precision_ser.to_csv(results_dir + "average_precision.csv")
+        # pred_df.to_csv(results_dir + "pred_results.csv", sep=",")
 
 
 if __name__ == '__main__':

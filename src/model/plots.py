@@ -2,12 +2,11 @@ import pandas as pd
 import matplotlib
 import numpy as np
 from sklearn.metrics import auc
-from itertools import cycle
 matplotlib.use("TkAgg")
 import matplotlib.pyplot as plt
 
 
-def plot_pr(origins, precision, recall, average_precision_ser, codesfile, each):
+def plot_pr(origins, precision, recall, average_precision_ser, codesfile, each, pr_fname):
     codes = pd.read_csv(codesfile, header=None)
     codes_map = dict(zip(codes[1], codes[0]))
     codes_map[len(codes_map)] = "Overall"  # !Note: add overall precision to mapping dictionary
@@ -67,10 +66,10 @@ def plot_pr(origins, precision, recall, average_precision_ser, codesfile, each):
         plt.title('Average precision score, micro-averaged over all classes: AP={0:0.2f}'
                   .format(average_precision['micro']))
 
-    plt.savefig('./figures/pr_geo.png')
+    plt.savefig(pr_fname)
 
 
-def plot_auc(origins, fprs, tprs, aucs, tprs_overall, codesfile, each):
+def plot_auc(origins, fprs, tprs, aucs, tprs_overall, codesfile, each, roc_fname):
     codes = pd.read_csv(codesfile, header=None)
     codes_map = dict(zip(codes[1], codes[0]))
     # print("codes_map:\n {}".format(codes_map))
@@ -133,5 +132,5 @@ def plot_auc(origins, fprs, tprs, aucs, tprs_overall, codesfile, each):
         # plt.title('ROC curves for metastatic samples', size=16)
         plt.legend(lines, labels, loc='best', prop=dict(size=12))
 
-    plt.savefig('./figures/auc_test.png')
+    plt.savefig(roc_fname)
 
