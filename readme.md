@@ -66,5 +66,4 @@
  **6. notebook**
  
      A jupyter notebook that replicates all the machine learning experiments from data preparation, model building and optimization, model evaluation. 
-     
      To execute this notebook, the environment needs to be firstly created according to the provided cancer_origin.yml file. 
