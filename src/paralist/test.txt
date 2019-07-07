@@ -1,0 +1,9 @@
+key	value
+runtype	test
+testfile	./data/train_dev_test/test1.tfrecords
+testmetafile	./data/train_dev_test/test1_meta.csv
+sample_size	1468
+units	64 
+modelfile	./DNN_model/best_model/model_0.ckpt
+codesfile	./data/train_dev_test/code.csv
+results_dir	./results/test/

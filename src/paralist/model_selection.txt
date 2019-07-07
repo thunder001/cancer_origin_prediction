@@ -1,0 +1,8 @@
+key	value
+runtype	model_selection
+trainfile	./data/train_dev_test/train1.tfrecords
+testfile	./data/train_dev_test/test1.tfrecords
+units	64,128,256
+sample_size	1468
+model_dir	./DNN_model/models/
+best_model_dir	./DNN_model/best_model_2/

@@ -1,0 +1,5 @@
+key	value
+runtype	train
+trainfile	./data/train_dev_test/train1.tfrecords
+units	64 
+modelfile	./DNN_model/train_model/train.ckpt

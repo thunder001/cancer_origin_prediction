@@ -1,0 +1,9 @@
+key	value
+runtype	test
+testfile	./data/GEO/GEO_combined_final.tfrecords
+testmetafile	./data/GEO/GEO_combined_final_meta.csv
+sample_size	581
+units	64 
+modelfile	./DNN_model/best_model/model_0.ckpt
+codesfile	./data/train_dev_test/code.csv
+results_dir	./results/GEO/
