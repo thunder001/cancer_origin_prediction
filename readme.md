@@ -24,7 +24,9 @@
   Due to large data, only data from GEO are available here for testing our model, which contains data from 581 patients across 10 cancer origins.
 
 **2. src**
+
    Source codes for this project
+   
    Dependency: python 3.6.3, pandas 0.21.0, numpy 1.13.3, tensorflow 1.4.0, sklearn 0.19.1
    
    *data:* A package folder contains python modules for data preparation from raw data to tfrecords formatted data. Please don't run since raw data is big and not included in Data folder
@@ -58,8 +60,11 @@
    This fold contains model performance in different data and predicted cancer origins using DNN-based cancer origin prediction model. Performace metrics include accuracy,  confusion_matrix, specificity, sensitivity, positive predictive value and negative predictive value.
   
  **5. figures**
+ 
    This fold contains ROC curves and precision-recall curves obtained from prediction results for evaluation data.
    
  **6. notebook**
+ 
      A jupyter notebook that replicates all the machine learning experiments from data preparation, model building and optimization, model evaluation. 
+     
      To execute this notebook, the environment needs to be firstly created according to the provided cancer_origin.yml file. 
