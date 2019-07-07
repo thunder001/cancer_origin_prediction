@@ -51,9 +51,9 @@
   ```
  **3. DNN_model**
    
-   best_model folder contains the best model obtained from optimization of hyperparameters.
+   *best_model:* The best model obtained from optimization of hyperparameters.
    
-   cv_model folder contains the models from 10 fold cross-validation. 
+   *cv_model:* The models obtained from 10 fold cross-validation. 
    
  **4. results**
    
@@ -65,4 +65,5 @@
    
  **6. notebook**
  
-     A jupyter notebook that replicates all the machine learning experiments from data preparation, model building and optimization, model evaluation. To execute this notebook, the environment needs to be firstly created according to the provided cancer_origin.yml file. 
+     A notebook that replicates all the machine learning experiments from data preparation, model building and optimization, model evaluation. 
+     To execute this notebook, the environment needs to be firstly created according to the provided cancer_origin.yml file. 
