@@ -47,7 +47,7 @@
    ```
    **For example:**
    ```python
-   python3 ./src/model/main.py ./data/paralist/test.txt
+   python3 ./src/model/main.py ./src/paralist/test.txt
   ```
  **3. DNN_model**
    
@@ -65,5 +65,4 @@
    
  **6. notebook**
  
-     A jupyter notebook that replicates all the machine learning experiments from data preparation, model building and optimization, model evaluation. 
-     To execute this notebook, the environment needs to be firstly created according to the provided cancer_origin.yml file. 
+     A jupyter notebook that replicates all the machine learning experiments from data preparation, model building and optimization, model evaluation. To execute this notebook, the environment needs to be firstly created according to the provided cancer_origin.yml file. 
