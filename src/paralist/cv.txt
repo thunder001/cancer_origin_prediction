@@ -5,5 +5,5 @@ model_dir	./DNN_model/cv_model/
 folds	10
 sample_size	431
 units	64
-codesfile	./data/train_dev_test/code.csv
+codesfile	./DNN_model/code.csv
 results_dir	./results/CV/

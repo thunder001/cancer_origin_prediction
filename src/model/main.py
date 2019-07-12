@@ -4,8 +4,8 @@ import pandas as pd
 from model_training import ModelTraining
 from model_selection import run_model_selection
 from model_evaluation import ModelEval
-import matplotlib
-matplotlib.use("TkAgg")
+# import matplotlib
+# matplotlib.use("TkAgg")
 from plots import plot_pr, plot_auc
 
 
@@ -62,8 +62,8 @@ def main():
         sample_size = int(para['sample_size'])
         units = int(para['units'])
         modelfile = para['modelfile']
-        print(modelfile)
-        print(type(modelfile))
+        # print(modelfile)
+        # print(type(modelfile))
         codesfile = para['codesfile']
         figure_dir = para['figure_dir']
         results_dir = para['results_dir']
@@ -77,7 +77,7 @@ def main():
         print(cm_df)
         print("\nAverage precision:")
         print(average_precision_ser)
-        print("\n SSPN:\n {}".format(SSPN_df))
+        print("\nSSPN:\n {}".format(SSPN_df))
 
         # display precision-recall curve
         origins = list(average_precision_ser.index)
@@ -93,8 +93,8 @@ def main():
 
         # plt.show()
 
-        pr_fname = figure_dir + 'pr_' + parafile.split('/')[-1].split('.')[0] + '.png'
-        plot_pr(origins, precision, recall, average_precision_ser, codesfile, True, pr_fname)
+        # pr_fname = figure_dir + 'pr_' + parafile.split('/')[-1].split('.')[0] + '.png'
+        # plot_pr(origins, precision, recall, average_precision_ser, codesfile, True, pr_fname)
         roc_fname = figure_dir + 'auc_' + parafile.split('/')[-1].split('.')[0] + '.png'
         plot_auc(origins, fprs, tprs, aucs, tprs_overall, codesfile, True, roc_fname)
 

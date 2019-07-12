@@ -5,6 +5,6 @@ testmetafile	./data/metastatic/metastatic_data1_meta.csv
 sample_size	143
 units	64 
 modelfile	./DNN_model/best_model/model_0.ckpt
-codesfile	./data/train_dev_test/code.csv
+codesfile	./DNN_model/code.csv
 figure_dir	./figures/
 results_dir	./results/metastatic/

@@ -37,8 +37,8 @@ def run_testing(testfile, modelfile, units, sample_size):
     with tf.Session() as sess:
 
         sess.run(init_op)
-        print(testfile)
-        print(modelfile)
+        # print(testfile)
+        # print(modelfile)
 
         saver.restore(sess, modelfile)
         coord = tf.train.Coordinator()

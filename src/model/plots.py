@@ -1,8 +1,8 @@
 import pandas as pd
-import matplotlib
+# import matplotlib
 import numpy as np
 from sklearn.metrics import auc
-matplotlib.use("TkAgg")
+# matplotlib.use("TkAgg")
 import matplotlib.pyplot as plt
 
 
@@ -66,7 +66,8 @@ def plot_pr(origins, precision, recall, average_precision_ser, codesfile, each, 
         plt.title('Average precision score, micro-averaged over all classes: AP={0:0.2f}'
                   .format(average_precision['micro']))
 
-    plt.savefig(pr_fname)
+    # plt.show()
+    # plt.savefig(pr_fname)
 
 
 def plot_auc(origins, fprs, tprs, aucs, tprs_overall, codesfile, each, roc_fname):
@@ -132,5 +133,6 @@ def plot_auc(origins, fprs, tprs, aucs, tprs_overall, codesfile, each, roc_fname
         # plt.title('ROC curves for metastatic samples', size=16)
         plt.legend(lines, labels, loc='best', prop=dict(size=12))
 
-    plt.savefig(roc_fname)
+    plt.show()
+    # plt.savefig(roc_fname)
 
